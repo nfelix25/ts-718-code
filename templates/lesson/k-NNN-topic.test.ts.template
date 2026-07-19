@@ -1,0 +1,7 @@
+import { describe, expect, it } from "vitest";
+
+describe("k-NNN topic", () => {
+  it("anchors the runtime behavior", () => {
+    expect(true).toBe(true);
+  });
+});

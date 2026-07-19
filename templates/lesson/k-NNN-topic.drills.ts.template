@@ -1,0 +1,10 @@
+import type { Equal, Expect, TODO } from "../../utils/type-utils.js";
+
+/**
+ * Guided drills
+ * =============================================================================
+ * Variation dimension 1: describe what changes across this group.
+ */
+
+type DrillAnswer = TODO; // TODO(koan)
+type _Drill1 = Expect<Equal<DrillAnswer, "expected">>; // @koan-error

@@ -1,0 +1,20 @@
+import type { Equal, Expect, TODO } from "../../utils/type-utils.js";
+
+/**
+ * K-NNN: Topic
+ * =============================================================================
+ *
+ * I use this pattern when...
+ *
+ * Mental model:
+ * Read `TypeExpression` aloud as "...".
+ *
+ * Solve each Part in order before moving to the drills.
+ */
+
+// Part 1: Establish the smallest useful form.
+
+type Answer = TODO; // TODO(koan)
+type _Part1 = Expect<Equal<Answer, "replace-with-expected-type">>; // @koan-error
+
+// Runtime exports belong below. Their implementation must already be complete.

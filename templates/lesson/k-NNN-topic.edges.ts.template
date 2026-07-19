@@ -1,0 +1,13 @@
+import type { Equal, Expect, TODO } from "../../utils/type-utils.js";
+
+/**
+ * Edge cases and gotchas
+ * =============================================================================
+ * Explain why the ordinary intuition breaks before asking for the result.
+ */
+
+type EdgeAnswer = TODO; // TODO(koan)
+type _Edge1 = Expect<Equal<EdgeAnswer, "expected">>; // @koan-error
+
+// Pre-solved demonstration: explain the surprise, not merely the result.
+type _Demonstration = Expect<Equal<never | "kept", "kept">>;
