@@ -143,17 +143,17 @@
 
 ## 9. Phase 8 - Type-Level Programming
 
-- [ ] 9.1 Classify and complete `k-118-rebuild-pick`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.2 Classify and complete `k-119-rebuild-omit`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.3 Classify and complete `k-120-rebuild-exclude-and-extract`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.4 Classify and complete `k-121-rebuild-nonnullable`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.5 Classify and complete `k-122-rebuild-partial-and-required`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.6 Classify and complete `k-123-rebuild-readonly-and-record`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.7 Classify and complete `k-124-rebuild-returntype`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.8 Classify and complete `k-125-rebuild-parameters`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.9 Classify and complete `k-126-constructor-utility-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.10 Classify and complete `k-127-rebuild-awaited`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.11 Classify and complete `k-128-this-utility-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.1 Classify and complete `k-118-rebuild-pick`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.2 Classify and complete `k-119-rebuild-omit`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.3 Classify and complete `k-120-rebuild-exclude-and-extract`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.4 Classify and complete `k-121-rebuild-nonnullable`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.5 Classify and complete `k-122-rebuild-partial-and-required`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.6 Classify and complete `k-123-rebuild-readonly-and-record`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.7 Classify and complete `k-124-rebuild-returntype`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.8 Classify and complete `k-125-rebuild-parameters`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.9 Classify and complete `k-126-constructor-utility-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.10 Classify and complete `k-127-rebuild-awaited`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.11 Classify and complete `k-128-this-utility-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 9.12 Classify and complete `k-129-compose-and-pipe-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 9.13 Classify and complete `k-130-curry-and-partial-application`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 9.14 Classify and complete `k-131-type-level-boolean-logic`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
