@@ -152,89 +152,89 @@ Each authored lesson also gains a detail section describing its objective, prere
 | `k-144` | `invariance` | 9 | [x] |
 | `k-145` | `variance-annotations` | 9 | [x] |
 | `k-146` | `bivariance-methods-and-properties` | 9 | [x] |
-| `k-147` | `deliberate-soundness-holes` | 9 | [ ] |
-| `k-148` | `accumulating-builders` | 9 | [ ] |
-| `k-149` | `polymorphic-this-and-f-bounds` | 9 | [ ] |
-| `k-150` | `typestate` | 9 | [ ] |
-| `k-151` | `typed-transition-tables` | 9 | [ ] |
-| `k-152` | `type-safe-event-emitters` | 9 | [ ] |
-| `k-153` | `event-map-transformations` | 9 | [ ] |
-| `k-154` | `fluent-mini-dsls` | 9 | [ ] |
-| `k-155` | `xor-and-exactly-one-types` | 9 | [ ] |
-| `k-156` | `exact-object-and-at-least-one-types` | 9 | [ ] |
-| `k-157` | `correlated-unions` | 9 | [ ] |
-| `k-158` | `higher-kinded-type-emulation` | 9 | [ ] |
-| `k-159` | `extensible-registry-capstone` | 9 | [ ] |
-| `k-160` | `decorator-mental-model` | 10 | [ ] |
-| `k-161` | `class-decorators` | 10 | [ ] |
-| `k-162` | `method-decorators` | 10 | [ ] |
-| `k-163` | `field-decorators` | 10 | [ ] |
-| `k-164` | `accessor-and-auto-accessor-decorators` | 10 | [ ] |
-| `k-165` | `decorator-factories-and-composition` | 10 | [ ] |
-| `k-166` | `well-typed-generic-decorators` | 10 | [ ] |
-| `k-167` | `decorator-initializers` | 10 | [ ] |
-| `k-168` | `decorator-metadata` | 10 | [ ] |
-| `k-169` | `synchronous-resource-management` | 10 | [ ] |
-| `k-170` | `asynchronous-resource-management` | 10 | [ ] |
-| `k-171` | `disposal-stacks-and-suppressed-errors` | 10 | [ ] |
-| `k-172` | `unrelated-getter-setter-types` | 10 | [ ] |
-| `k-173` | `easier-undefined-returns` | 10 | [ ] |
-| `k-174` | `jsx-elementtype-and-namespaced-attributes` | 10 | [ ] |
-| `k-175` | `tuple-label-relaxation` | 10 | [ ] |
-| `k-176` | `methods-on-array-unions` | 10 | [ ] |
-| `k-177` | `copying-array-methods` | 10 | [ ] |
-| `k-178` | `symbols-as-weak-collection-keys` | 10 | [ ] |
-| `k-179` | `import-attributes` | 10 | [ ] |
-| `k-180` | `resolution-mode` | 10 | [ ] |
-| `k-181` | `switch-true-narrowing` | 10 | [ ] |
-| `k-182` | `boolean-comparison-narrowing` | 10 | [ ] |
-| `k-183` | `symbol-hasinstance-narrowing` | 10 | [ ] |
-| `k-184` | `object-and-map-groupby` | 10 | [ ] |
-| `k-185` | `preserved-closure-narrowing` | 10 | [ ] |
-| `k-186` | `noinfer-release-lab` | 10 | [ ] |
-| `k-187` | `inferred-predicate-release-lab` | 10 | [ ] |
-| `k-188` | `constant-indexed-control-flow-analysis` | 10 | [ ] |
-| `k-189` | `isolated-declarations` | 10 | [ ] |
-| `k-190` | `configdir` | 10 | [ ] |
-| `k-191` | `regexp-syntax-checking` | 10 | [ ] |
-| `k-192` | `jsdoc-import` | 10 | [ ] |
-| `k-193` | `iterator-helpers` | 10 | [ ] |
-| `k-194` | `strict-builtin-iterator-return` | 10 | [ ] |
-| `k-195` | `unchecked-side-effect-imports` | 10 | [ ] |
-| `k-196` | `arbitrary-module-identifiers` | 10 | [ ] |
-| `k-197` | `syntactic-truthy-nullish-checks` | 10 | [ ] |
-| `k-198` | `no-check-and-build-through-errors` | 10 | [ ] |
-| `k-199` | `never-initialized-variables` | 10 | [ ] |
-| `k-200` | `relative-extension-rewriting` | 10 | [ ] |
-| `k-201` | `generic-typed-arrays` | 10 | [ ] |
-| `k-202` | `nodenext-json-imports` | 10 | [ ] |
-| `k-203` | `granular-return-expression-checks` | 10 | [ ] |
-| `k-204` | `require-esm-from-commonjs` | 10 | [ ] |
-| `k-205` | `erasable-syntax-only` | 10 | [ ] |
-| `k-206` | `lib-replacement` | 10 | [ ] |
-| `k-207` | `import-defer` | 10 | [ ] |
-| `k-208` | `node20-and-modern-module-config` | 10 | [ ] |
-| `k-209` | `strict-family-unpacked` | 11 | [ ] |
-| `k-210` | `strict-adjacent-hardening-flags` | 11 | [ ] |
-| `k-211` | `modern-compiler-defaults` | 11 | [ ] |
-| `k-212` | `thisless-function-context-sensitivity` | 11 | [ ] |
-| `k-213` | `stable-type-ordering` | 11 | [ ] |
-| `k-214` | `es2025-lib-and-regexp-escape` | 11 | [ ] |
-| `k-215` | `temporal-api-types` | 11 | [ ] |
-| `k-216` | `map-upsert-methods` | 11 | [ ] |
-| `k-217` | `set-iterator-promise-es2025-apis` | 11 | [ ] |
-| `k-218` | `dom-iterable-consolidation` | 11 | [ ] |
-| `k-219` | `module-resolution-tightening` | 11 | [ ] |
-| `k-220` | `typescript-6-migration-capstone` | 11 | [ ] |
-| `k-221` | `native-compiler-architecture` | 12 | [ ] |
-| `k-222` | `typescript-6-7-compatibility-contract` | 12 | [ ] |
-| `k-223` | `checker-builder-parallelism` | 12 | [ ] |
-| `k-224` | `native-watch-mode` | 12 | [ ] |
-| `k-225` | `lsp-and-editor-architecture` | 12 | [ ] |
-| `k-226` | `compiler-api-and-side-by-side-use` | 12 | [ ] |
-| `k-227` | `configuration-hard-removals` | 12 | [ ] |
-| `k-228` | `diagnostic-js-jsdoc-emit-differences` | 12 | [ ] |
-| `k-229` | `native-parity-and-performance-capstone` | 12 | [ ] |
+| `k-147` | `deliberate-soundness-holes` | 9 | [x] |
+| `k-148` | `accumulating-builders` | 9 | [x] |
+| `k-149` | `polymorphic-this-and-f-bounds` | 9 | [x] |
+| `k-150` | `typestate` | 9 | [x] |
+| `k-151` | `typed-transition-tables` | 9 | [x] |
+| `k-152` | `type-safe-event-emitters` | 9 | [x] |
+| `k-153` | `event-map-transformations` | 9 | [x] |
+| `k-154` | `fluent-mini-dsls` | 9 | [x] |
+| `k-155` | `xor-and-exactly-one-types` | 9 | [x] |
+| `k-156` | `exact-object-and-at-least-one-types` | 9 | [x] |
+| `k-157` | `correlated-unions` | 9 | [x] |
+| `k-158` | `higher-kinded-type-emulation` | 9 | [x] |
+| `k-159` | `extensible-registry-capstone` | 9 | [x] |
+| `k-160` | `decorator-mental-model` | 10 | [x] |
+| `k-161` | `class-decorators` | 10 | [x] |
+| `k-162` | `method-decorators` | 10 | [x] |
+| `k-163` | `field-decorators` | 10 | [x] |
+| `k-164` | `accessor-and-auto-accessor-decorators` | 10 | [x] |
+| `k-165` | `decorator-factories-and-composition` | 10 | [x] |
+| `k-166` | `well-typed-generic-decorators` | 10 | [x] |
+| `k-167` | `decorator-initializers` | 10 | [x] |
+| `k-168` | `decorator-metadata` | 10 | [x] |
+| `k-169` | `synchronous-resource-management` | 10 | [x] |
+| `k-170` | `asynchronous-resource-management` | 10 | [x] |
+| `k-171` | `disposal-stacks-and-suppressed-errors` | 10 | [x] |
+| `k-172` | `unrelated-getter-setter-types` | 10 | [x] |
+| `k-173` | `easier-undefined-returns` | 10 | [x] |
+| `k-174` | `jsx-elementtype-and-namespaced-attributes` | 10 | [x] |
+| `k-175` | `tuple-label-relaxation` | 10 | [x] |
+| `k-176` | `methods-on-array-unions` | 10 | [x] |
+| `k-177` | `copying-array-methods` | 10 | [x] |
+| `k-178` | `symbols-as-weak-collection-keys` | 10 | [x] |
+| `k-179` | `import-attributes` | 10 | [x] |
+| `k-180` | `resolution-mode` | 10 | [x] |
+| `k-181` | `switch-true-narrowing` | 10 | [x] |
+| `k-182` | `boolean-comparison-narrowing` | 10 | [x] |
+| `k-183` | `symbol-hasinstance-narrowing` | 10 | [x] |
+| `k-184` | `object-and-map-groupby` | 10 | [x] |
+| `k-185` | `preserved-closure-narrowing` | 10 | [x] |
+| `k-186` | `noinfer-release-lab` | 10 | [x] |
+| `k-187` | `inferred-predicate-release-lab` | 10 | [x] |
+| `k-188` | `constant-indexed-control-flow-analysis` | 10 | [x] |
+| `k-189` | `isolated-declarations` | 10 | [x] |
+| `k-190` | `configdir` | 10 | [x] |
+| `k-191` | `regexp-syntax-checking` | 10 | [x] |
+| `k-192` | `jsdoc-import` | 10 | [x] |
+| `k-193` | `iterator-helpers` | 10 | [x] |
+| `k-194` | `strict-builtin-iterator-return` | 10 | [x] |
+| `k-195` | `unchecked-side-effect-imports` | 10 | [x] |
+| `k-196` | `arbitrary-module-identifiers` | 10 | [x] |
+| `k-197` | `syntactic-truthy-nullish-checks` | 10 | [x] |
+| `k-198` | `no-check-and-build-through-errors` | 10 | [x] |
+| `k-199` | `never-initialized-variables` | 10 | [x] |
+| `k-200` | `relative-extension-rewriting` | 10 | [x] |
+| `k-201` | `generic-typed-arrays` | 10 | [x] |
+| `k-202` | `nodenext-json-imports` | 10 | [x] |
+| `k-203` | `granular-return-expression-checks` | 10 | [x] |
+| `k-204` | `require-esm-from-commonjs` | 10 | [x] |
+| `k-205` | `erasable-syntax-only` | 10 | [x] |
+| `k-206` | `lib-replacement` | 10 | [x] |
+| `k-207` | `import-defer` | 10 | [x] |
+| `k-208` | `node20-and-modern-module-config` | 10 | [x] |
+| `k-209` | `strict-family-unpacked` | 11 | [x] |
+| `k-210` | `strict-adjacent-hardening-flags` | 11 | [x] |
+| `k-211` | `modern-compiler-defaults` | 11 | [x] |
+| `k-212` | `thisless-function-context-sensitivity` | 11 | [x] |
+| `k-213` | `stable-type-ordering` | 11 | [x] |
+| `k-214` | `es2025-lib-and-regexp-escape` | 11 | [x] |
+| `k-215` | `temporal-api-types` | 11 | [x] |
+| `k-216` | `map-upsert-methods` | 11 | [x] |
+| `k-217` | `set-iterator-promise-es2025-apis` | 11 | [x] |
+| `k-218` | `dom-iterable-consolidation` | 11 | [x] |
+| `k-219` | `module-resolution-tightening` | 11 | [x] |
+| `k-220` | `typescript-6-migration-capstone` | 11 | [x] |
+| `k-221` | `native-compiler-architecture` | 12 | [x] |
+| `k-222` | `typescript-6-7-compatibility-contract` | 12 | [x] |
+| `k-223` | `checker-builder-parallelism` | 12 | [x] |
+| `k-224` | `native-watch-mode` | 12 | [x] |
+| `k-225` | `lsp-and-editor-architecture` | 12 | [x] |
+| `k-226` | `compiler-api-and-side-by-side-use` | 12 | [x] |
+| `k-227` | `configuration-hard-removals` | 12 | [x] |
+| `k-228` | `diagnostic-js-jsdoc-emit-differences` | 12 | [x] |
+| `k-229` | `native-parity-and-performance-capstone` | 12 | [x] |
 
 ## Authored Lesson Notes
 
@@ -1252,3 +1252,591 @@ Each authored lesson also gains a detail section describing its objective, prere
 - **Prerequisites:** Covariance, contravariance, invariance, strict function properties, subtype lattices, nested variance sign composition, unions, any/never/unknown, ReturnType/Parameters, and generic runtime adapters.
 - **Drill dimensions:** Annotated versus inferred assignments, output/input/invariant truth tables, literal subtypes, union domains, top/bottom endpoints, same-constructor reflection, nested sign multiplication, wrappers, union functions, and transfer pipelines.
 - **Edge cases:** Compiler rejection of dishonest annotations, deliberately stricter `in out` on readonly shapes, structural comparison versus instantiation comparison, invariant inner constructors stopping movement, union placement, any bypass, never/unknown endpoints, and annotations as validation/performance documentation rather than arbitrary switches.
+
+### k-146: Bivariance, Methods, and Properties
+
+- **Objective:** Contrast contravariant function properties with bivariant method parameters and the indexed bivariance-hack callback, making the compatibility exception and its runtime risk explicit.
+- **Prerequisites:** Strict function types, contravariance, method and property syntax, indexed access, parameter/return reflection, subtype lattices, optional/rest parameters, unions, and callback invocation.
+- **Drill dimensions:** Strict and bivariant assignment matrices, method extraction, standalone callback aliases, subtype unions, optional/rest/multiple parameters, return covariance, wrapper composition, top/bottom types, and runtime dispatch.
+- **Edge cases:** Dog-only methods accepted as Animal methods, Cat-triggered runtime failure, property syntax closing the unsafe direction, bivariance-hack propagation, return types remaining covariant, any/never/unknown behavior, union callbacks, and mutable-API compatibility tradeoffs.
+
+### k-147: Deliberate Soundness Holes
+
+- **Objective:** Recognize where TypeScript deliberately accepts potentially failing programs, distinguish those compromises from bugs, and place validation or stricter types at the resulting trust boundaries.
+- **Prerequisites:** Mutable covariance, bivariance, structural width, excess-property freshness, indexed access, noUncheckedIndexedAccess, control-flow narrowing, assertions, non-null assertions, JSON.parse, and runtime aliasing.
+- **Drill dimensions:** Mutable versus readonly containers, writable versus readonly fields, Maps/Sets/tuples, fresh versus stale objects, structural key projections, type-level versus expression-level indexing, optional-property refinements, generic assertions, and ambient any classification.
+- **Edge cases:** Cat pollution through Dog references, refinement invalidation after calls, excess checks not providing exactness, Record reads still possibly absent, non-null assertions returning undefined, generic JSON assertions lying, strict flags containing but not eliminating risk, and runtime counterexamples for every major hole.
+
+### k-148: Accumulating Builders
+
+- **Objective:** Carry an immutable type-level record through fluent runtime updates, accumulating precise keys and values until readiness predicates prove that required steps exist.
+- **Prerequisites:** Generic classes and methods, const type parameters, mapped types over key unions, key overwrite normalization, conditional inference, keyof, readonly snapshots, literal inference, and immutable runtime updates.
+- **Drill dimensions:** Empty states, one-to-many writes, overwrites, string/number/symbol keys, literal objects and tuples, undefined/union values, StateOf extraction, HasKeys subset matrices, CompleteBuilder gating, get/build reflection, and required request fields.
+- **Edge cases:** Union-key optimism versus one runtime write, broad string index signatures, modifier replacement on overwrite, never and any states, empty required-key identity, shallow readonly snapshots, duplicate-key normalization, symbol/numeric runtime keys, and static/runtime state alignment.
+
+### k-149: Polymorphic This and F-Bounds
+
+- **Objective:** Preserve most-derived receiver types through inherited fluent methods and use explicit recursive self parameters when multiple values or generic algorithms must share one identity.
+- **Prerequisites:** Classes and inheritance, polymorphic this, explicit this parameters, ThisParameterType/OmitThisParameter, recursive generic constraints, strict function properties, structural assignability, and generic function instantiation.
+- **Drill dimensions:** Base/child/grandchild return specialization, fluent callback receivers, extracted methods, explicit-this utilities, F-bound satisfaction, comparable/entity self recovery, structural implementations, wrong-self classes, max/clone algorithms, and union reflection.
+- **Edge cases:** Detached methods lacking runtime receivers, inherited methods continually respecializing, union method reflection, F-bounds remaining structural, classes selecting a different recursive self, method bivariance avoided with properties, any/never satisfying recursive checks, and heterogeneous self unions failing one-domain constraints.
+
+### k-150: Typestate
+
+- **Objective:** Encode a session protocol in an erased state parameter, using explicit receiver preconditions and state-changing returns to make legal transition chains constructible and illegal calls uncallable.
+- **Prerequisites:** Phantom types, generic classes, explicit this parameters, polymorphic method reflection, conditional extraction, discriminated state records, union distribution, OmitThisParameter, assertions, and runtime protocol guards.
+- **Drill dimensions:** State and user extraction, create/connect/authenticate/query/close signatures, receiver and parameter tuples, capability truth tables, authenticated payload propagation, state unions, assignment direction, never/any behavior, and visible class members.
+- **Edge cases:** Methods visible in every state but rejected by their receiver, receiver erasure bypassing legality, forged state assertions, runtime status mismatch detection, union capabilities becoming boolean, terminal close state, never sessions, any poisoning, and immutable transition objects.
+
+### k-151: Typed Transition Tables
+
+- **Objective:** Derive legal events, destinations, payloads, argument tuples, and correlated transition cases from one declarative state table.
+- **Prerequisites:** Typestate, keyof and indexed access, distributive conditionals, constrained infer, mapped-union indexing, variadic tuples, readonly snapshots, assertions, and runtime boundary validation.
+- **Drill dimensions:** State rows, single and union event vocabularies, destination and payload projection, payload-sensitive rest tuples, mapped transition unions, case extraction/filtering, snapshot reflection, empty rows, and runtime histories.
+- **Edge cases:** Common-key collapse across union rows, explicit distribution recovering all events, independent state/event unions weakening correlation, payload union behavior, never states, malformed destinations filtered to never, any classification, forged events, and validation order.
+
+### k-152: Type-Safe Event Emitters
+
+- **Objective:** Derive subscription and emission signatures from an event-to-argument-tuple map while preserving each event name's correlation with zero, optional, one, or multiple arguments.
+- **Prerequisites:** Property-key event maps, variadic tuples, mapped-union indexing, generic classes and methods, function parameter variance, unique symbols, numeric keys, void callbacks, and localized runtime assertions.
+- **Drill dimensions:** Event-name filtering, tuple projection, first arguments, listener signatures, whole call tuples, discriminated event records, tuple-shape matching, method reflection, empty schemas, and heterogeneous event kinds.
+- **Edge cases:** Correlation loss from separately unioned names and arguments, optional tuple length, non-distributive first-argument inspection, contravariant listeners, permissive void returns, broad string indexes, any poisoning, never events, schema rejection, and erased listener storage.
+
+### k-153: Event-Map Transformations
+
+- **Objective:** Treat an event-to-tuple schema as a mapped-type algebra for prefixing, namespacing, renaming, filtering, augmenting, merging, and enveloping an API relation.
+- **Prerequisites:** Type-safe event maps, key remapping with as, template-literal keys, mapped filtering to never, tuple spreads, property-key kinds, intersections, Omit, normalization, and discriminated mapped unions.
+- **Drill dimensions:** String-key extraction, filtered versus preserving namespaces, broad prefixes, nested transforms, concrete renames, collision unions, tuple-shape selection, context/metadata insertion, right-biased merges, envelopes, and transform composition.
+- **Edge cases:** Non-string key loss or preservation, broad template domains, duplicate remap targets unioning values, optional rename maps retaining originals, symbol/number targets, optional tuple spreading, assignability-based filtering, empty schemas, never normalization, any poisoning, and explicit merge collision policy.
+
+### k-154: Fluent Mini-DSLs
+
+- **Objective:** Encode a small query grammar as immutable fluent transitions whose type state accumulates selected fields, clause flags, field-specific operators, and the final projected row.
+- **Prerequisites:** Generic classes and methods, accumulating builders, typestate, explicit this receivers, mapped correlated unions, keyof, Pick, conditional types, const tuple inference, and immutable runtime plans.
+- **Drill dimensions:** Scalar operator grammars, field/value/operator clauses, empty/single/multi projections, state extraction, where/order/limit flag transitions, build receiver requirements, result reflection, class surface, and structural state relations.
+- **Edge cases:** Whole-union conditional fallback, never and unknown operator domains, correlation loss in independently projected clauses, mismatched field/value acceptance, empty-selection build rejection, duplicate-key normalization, boolean flag variance, assertion escape hatches, external row validation, and runtime limit checks.
+
+### k-155: XOR and Exactly-One Types
+
+- **Objective:** Encode mutual exclusion by requiring one object branch or property choice while representing every unchosen alternative as an optional-never absence constraint.
+- **Prerequisites:** Inclusive structural unions, exactOptionalPropertyTypes, mapped unions, key distribution, Exclude, Pick/Omit/Required/Partial, conditional distribution, normalization, own-property checks, and runtime parsing.
+- **Drill dimensions:** Without helpers, binary XOR, shared versus unique keys, primitive fallback, two/three-key choices, subset exclusivity, preserved common fields, at-most-one, N-way exclusive unions, destinations, credentials, and runtime API reflection.
+- **Edge cases:** Inclusive unions accepting combined objects, optional-never indexed reads yielding undefined, explicitly supplied undefined, overlapping keys, duplicate shapes, empty choice sets, broad index signatures, never propagation, any poisoning, undefined-valued chosen fields, non-object union members, and runtime own-property semantics.
+
+### k-156: Exact Objects and At-Least-One Types
+
+- **Objective:** Require one or more fields from a controlled subset and enforce candidate-key exactness at generic boundaries, while separating both from runtime validation of unknown objects.
+- **Prerequisites:** Structural openness, excess-property freshness, mapped unions, Required/Partial/Pick/Omit, keyof and Exclude, exact optional properties, generic const inference, own-key reflection, and runtime parsing.
+- **Drill dimensions:** One/two/three-field choices, required and optional source shapes, controlled subsets, preserved common fields, all-or-none groups, extra-key extraction, exact classification, literals and optional fields, string/number/symbol keys, static constructors, and parser reflection.
+- **Edge cases:** Stale values bypassing excess checks, explicit undefined under exact optional semantics, undefined-valued selected fields, optional grouped reads, broad index signatures accepting extras, union-shape common-key collapse, empty choice sets, readonly preservation, symbol extras, numeric keys, never candidates, and Reflect.ownKeys runtime coverage.
+
+### k-157: Correlated Unions
+
+- **Objective:** Construct and consume unions whose discriminant, payload, and callback input move together, using mapped indexing, whole-value narrowing, correlated tuples, and keyed handler maps.
+- **Prerequisites:** Discriminated unions, mapped-union indexing, indexed access, function parameter variance, tuple unions, Extract/Exclude, generic key relationships, control-flow narrowing, and exhaustive switches.
+- **Drill dimensions:** Object-member extraction, payload and formatter projection, subset and empty unions, tuple positions, dispatch argument tuples, handler maps, loose projections, assignment contrasts, custom maps, and runtime API reflection.
+- **Edge cases:** Function-union reflection versus callability, common safe arguments collapsing to never, generic union keys recreating independent unions, mismatched loose cases, contextual typing of callbacks in tuple unions, optional map values, broad string key domains, any classification, never kinds, and assertion escape hatches.
+
+### k-158: Higher-Kinded Type Emulation
+
+- **Objective:** Emulate abstraction over unary type constructors with polymorphic-this type lambdas and URI lookup tables, then apply, map, compose, and connect those encodings to runtime functor adapters.
+- **Prerequisites:** Generic type constructors, interfaces and polymorphic this, intersections, indexed access, mapped tuples/records, conditional template literals, generic methods, structural typing, and higher-order mapping intuition.
+- **Drill dimensions:** Identity/array/box/nullable/promise/string lambdas, nested constructor order, tuple and record mapping, readonly/optional modifier preservation, URI families and unions, functor method reflection, concrete adapters, and generic map composition.
+- **Edge cases:** Backward inference through Apply, explicit generic arguments, never/unknown/any inputs, fixed-slot intersection collisions, constant lambdas ignoring input, lambda-union widening, conditional union behavior, never containers, optional tuple members, closed URI vocabularies, and unenforced functor laws.
+
+### k-159: Extensible Registry Capstone
+
+- **Objective:** Derive a command registry from an extensible input/output catalog, accumulating installed-key evidence immutably until a completeness receiver permits a stable read-only dispatch surface.
+- **Prerequisites:** Generic key relationships, correlated mapped unions, unique symbols, handler variance, accumulating builders, phantom type state, Exclude, explicit this receivers, declaration-friendly interfaces, assertions, and runtime Map boundaries.
+- **Drill dimensions:** Catalog names/inputs/outputs, per-command handlers, object cases and call tuples, string and symbol commands, custom catalogs, registered and remaining key algebra, duplicate exclusion, completeness predicates, view reflection, and full registry construction.
+- **Edge cases:** Generic union-name correlation loss, tuple-union repair, empty catalogs, broad string catalogs that cannot finitely complete, extension with new commands, invalid catalog entries, callback variance, erased heterogeneous storage, any/never extraction, forged completeness, duplicate registration, and missing runtime dispatch.
+
+### k-160: Decorator Mental Model
+
+- **Objective:** Build the standard TypeScript 5.0 decorator model from first principles: definition-time value/context calls, compatible replacements, context capabilities, initializer hooks, and stacked evaluation/application order.
+- **Prerequisites:** Classes and methods, generic function signatures, explicit this parameters, context objects, discriminated unions, function replacement variance, decorators as runtime expressions, and TypeScript/Vitest transform boundaries.
+- **Drill dimensions:** All standard context kinds, class/member names, static/private facts, access get/set/has capabilities, initializer signatures, method values and decorators, replacement extraction, factory reflection, decorated class construction, and preserved method contracts.
+- **Edge cases:** Standard versus legacy experimental arity, absence of parameter decorators, fields receiving undefined, field initializer returns, common context-union surface, private and symbol names, wrong argument/result replacements, void/never/any returns, definition versus invocation time, and inside-out stacked application. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-161: Class Decorators
+
+- **Objective:** Observe or replace class constructors with compatible subclasses, preserve construction/instance/static contracts, and use class initializers to register the finalized decorated class.
+- **Prerequisites:** Standard decorator model, constructor and instance types, generic class values, static versus instance sides, subclassing, class contexts, addInitializer, instanceof, and runtime assertions.
+- **Drill dimensions:** Constructor arguments, instance extraction, static members, context names and initializer callbacks, decorator input/output types, replacement extraction, factory reflection, decorated class construction, method preservation, and assignability directions.
+- **Edge cases:** Runtime-added members absent from declarations, static-side requirements, wrong constructor arguments, wider replacement instances, finalized-class initializer this, void/never/any replacements, abstract versus concrete constructors, assertion escape hatches, and heterogeneous runtime registration. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-162: Method Decorators
+
+- **Objective:** Wrap instance, static, and private methods while preserving receiver, parameter tuple, and result contracts through generic standard method decorators.
+- **Prerequisites:** Standard decorator model, explicit this parameters, variadic argument tuples, strict function variance, method contexts and access objects, WeakMap/Map caching, static/private class elements, and stacked replacement composition.
+- **Drill dimensions:** Sync/async method values, specialized contexts, access get/has, replacement extraction, logger/counter/memoizer/context factories, decorated instance/static methods, optional parameters, receiver reflection, and assignment relationships.
+- **Edge cases:** Broader versus narrower replacement inputs, covariant result direction, private names, static context facts, detached receiver behavior, per-instance cache identity, async results, overload last-signature reflection, union methods, void/never/any replacements, and contextual typing limits. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-163: Field Decorators
+
+- **Objective:** Transform field initialization with per-instance initializer returns and use typed field context access to observe public, private, instance, and static values without changing declared field types.
+- **Prerequisites:** Standard decorator model, class field initialization, explicit this parameters, field contexts, access has/get/set, addInitializer timing, private fields, static fields, and function variance.
+- **Drill dimensions:** Undefined decorator values, numeric/string/optional fields, initializer receiver/value/results, context facts, access methods, multiply/trim/record factories, decorated public/static surfaces, private access, and runtime class reflection.
+- **Edge cases:** Decoration versus initialization time, incompatible initializer inputs/results, optional undefined values, readonly syntax versus context set capability, private names absent from keyof, symbol names, static receivers, per-instance execution, void/never/any replacements, and extra-initializer ordering. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-164: Accessor and Auto-Accessor Decorators
+
+- **Objective:** Distinguish ordinary getter/setter replacement from `accessor` decoration, then control initial backing values, later reads, and later writes through the typed target/result lifecycle.
+- **Prerequisites:** Standard decorator model, getter and setter declarations, explicit this parameters, function variance, auto-accessor syntax, hidden backing storage, context access objects, decorator factories, and class surface reflection.
+- **Drill dimensions:** Getter and setter callable values, specialized context kinds, asymmetric access capabilities, auto-accessor targets, optional get/set/init results, this-oriented versus object-oriented calls, concrete factories, initializer transforms, replacement setters, and preserved declared property types.
+- **Edge cases:** Getter covariance versus setter contravariance, missing result members preserving originals, init versus later assignment, optional values, private names and hidden storage, target/context access differences, symbol-capable names, void alternatives, and any/unknown/never value behavior. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-165: Decorator Factories and Composition
+
+- **Objective:** Track configurable decorators across expression evaluation, bottom-up application, and outer-to-inner invocation, then reproduce stacked semantics with a right-to-left composition fold.
+- **Prerequisites:** Method decorators, higher-order functions, rest tuples, explicit this parameters, replacement-or-void contracts, class definition timing, exception propagation, and generic function factories.
+- **Drill dimensions:** Method contract preservation, factory configuration tuples, returned decorator reflection, context specialization, right-fold composition, observer decorators, number-result transforms, async-shaped methods, and decorated class surfaces.
+- **Edge cases:** Whole-class expression evaluation before application, void preserving the current replacement, never terminating a fold, noncommutative wrapper order, thrown-call unwinding, synchronous wrappers around promises, overload last-signature reflection, empty stacks, optional factory arguments, and any/never results. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-166: Well-Typed Generic Decorators
+
+- **Objective:** Preserve receiver, argument tuple, and result correlations in reusable decorators, then preserve whole callable identity when the decorated method is itself generic or overloaded.
+- **Prerequisites:** Generic standard decorators, explicit this parameters, variadic tuples, conditional inference, Parameters and ReturnType, higher-rank generic functions, overload reflection, function variance, and localized type assertions.
+- **Drill dimensions:** Zero/unary/optional/async methods, method-part extraction, specialized contexts, exact callable decorators, identity and pair generics, generic factories, first-argument constraints, generic service methods, captured class type parameters, and decorated box surfaces.
+- **Edge cases:** Parameters/ReturnType erasing generic correlation to unknown, overload utilities selecting the last signature, any[] versus unknown[] callable constraints, implementation assertions behind precise contracts, broad/narrow input variance, detached this, never argument tuples, unknown/never results, and exact callable preservation. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-167: Decorator Initializers
+
+- **Objective:** Schedule receiver-aware work at the correct class/member lifecycle point, including per-instance method binding, post-value field/accessor work, and once-per-class registration.
+- **Prerequisites:** Standard decorator contexts, explicit this parameters, method/field/auto-accessor decorators, class decorators, instance and static sides, field initialization order, context access objects, and property descriptors.
+- **Drill dimensions:** Method/getter/setter callbacks, field/accessor callbacks, initializer extraction, receiver extraction, static and class receiver types, addInitializer parameters/results, concrete lifecycle factories, bound methods, registered constructors, and unchanged class surfaces.
+- **Edge cases:** Initializer registration versus execution, callbacks with no ordinary parameters, arrow-function this loss, method-before-field timing, field/accessor post-value timing, static/class constructor receivers, private binding restrictions, runtime own properties absent from type changes, optional field values, and never/unknown receivers. Official basis: TypeScript 5.0 release notes and the TC39 decorators proposal; checked with TypeScript 7.0.2.
+
+### k-168: Decorator Metadata
+
+- **Objective:** Build a standard symbol-keyed metadata protocol across class decorators, expose it through `Class[Symbol.metadata]`, and extend inherited mutable metadata without mutating the base class.
+- **Prerequisites:** Standard decorator contexts, unique symbols, PropertyKey, Record with unknown values, runtime polyfills, class static properties, prototype inheritance, copy-on-write collections, and narrowing/assertion boundaries.
+- **Drill dimensions:** Metadata on all six context families, record key/value types, unique symbol namespaces, route and serialization schemas, metadata capture, nullable class lookup, factory contracts, decorated model reflection, and base/derived surfaces.
+- **Edge cases:** Missing runtime Symbol.metadata, shared per-class object identity, unknown rather than any values, class-side metadata absent from instances, prototype-linked subclass metadata, inherited array mutation, symbol-named members, absent metadata, conditional never/any behavior, and no automatic design-type emission. Official basis: TypeScript 5.2 decorator metadata release notes plus TypeScript 5.0's standard-versus-legacy distinction; checked with TypeScript 7.0.2 and a runtime Symbol.metadata polyfill.
+
+### k-169: Synchronous Resource Management
+
+- **Objective:** Use `using` to bind ordinary structurally disposable values to lexical lifetimes with guaranteed LIFO cleanup on normal, early-return, and exceptional exits.
+- **Prerequisites:** Unique symbols, structural typing, computed methods, lexical blocks, try/finally intuition, union/nullish types, class state, conditional extraction, and runtime downlevel transforms.
+- **Drill dimensions:** Symbol.dispose identity, Disposable members, disposer parameters/results, structural resource shapes, concrete resource construction and methods, nullable using values, exit-path helper signatures, block versus function scopes, and ordinary return types.
+- **Edge cases:** Structural rather than nominal conformance, wrong named close/dispose methods, optional disposers, ignored non-void disposer results, async-only resources, distributing extraction over mixed unions, nullish no-op resources, any/unknown/never boundaries, iterator disposal, repeated calls, and acquisition/disposal order. Official basis: TypeScript 5.2 explicit resource management release notes; checked with TypeScript 7.0.2 and the TypeScript transform because Node 24.11 exposes the disposal symbols but not `using` syntax.
+
+### k-170: Asynchronous Resource Management
+
+- **Objective:** Use `await using` to await sequential LIFO cleanup on every async-scope exit, including early fulfillment and rejection, while supporting async resources, synchronous fallback, and nullish values.
+- **Prerequisites:** Synchronous resource management, AsyncDisposable, PromiseLike and Awaited, async functions, rejection propagation, unique symbols, structural unions, and TypeScript's resource transform.
+- **Drill dimensions:** Symbol.asyncDispose identity, PromiseLike<void> contracts, awaited results, async/sync concrete resources, both-protocol shapes, eligible initializer unions, nullable resources, promised helper returns, awaited early-return/throw types, and mixed cleanup.
+- **Edge cases:** Promise<number> and void not satisfying PromiseLike<void>, async-only resources invalid for plain using, synchronous fallback under await using, async preference for both-protocol values, sequential rather than concurrent disposal, extracting across mixed unions, any/unknown/never, async iterator disposal, nullish no-ops, and cleanup before promise settlement. Official basis: TypeScript 5.2 explicit resource management release notes; checked with TypeScript 7.0.2 and the TypeScript transform on Node 24.11.
+
+### k-171: Disposal Stacks and Suppressed Errors
+
+- **Objective:** Manage explicit resource ownership with synchronous/asynchronous disposal stacks, transfer ownership with move, and preserve body plus cleanup failures through correctly ordered SuppressedError chains.
+- **Prerequisites:** using and await using, Disposable and AsyncDisposable, generic methods, unique symbols, LIFO stacks, async callbacks, error inheritance, conditional types, and runtime lifecycle checks.
+- **Drill dimensions:** Stack construction and state, direct and symbol disposal, use/adopt/defer generics, exact returned values, move results, async stack widening and awaited completion, stack-as-resource relationships, SuppressedError construction/fields, and runtime helper surfaces.
+- **Edge cases:** Moved/disposed state enforced at runtime rather than typestate, nullish use entries, adopted tuple preservation, async stacks accepting sync resources, repeated idempotent disposal, callback failures while continuing cleanup, arbitrary JavaScript thrown values typed as any, nested suppression, stack family conditionals, and distinct disposal symbols. Official basis: TypeScript 5.2 explicit resource management release notes and TS 7 esnext.disposable declarations; checked with TypeScript 7.0.2 and Node 24.11 stack/error implementations.
+
+### k-172: Unrelated Getter and Setter Types
+
+- **Objective:** Model properties with independent read and write protocols, including string-to-object conversion, validation, and uninitialized reads, using TS 5.1's explicitly annotated unrelated accessor types.
+- **Prerequisites:** Getter/setter syntax in classes and interfaces, explicit annotations, indexed access, function parameter extraction, directional assignability, mapped types, structural interfaces, and runtime conversion boundaries.
+- **Drill dimensions:** Number/style/date read types, helper-exposed write inputs, read/write relationship flags, class construction and public surfaces, structural implementation, style declaration shapes, write-operation functions, snapshots, and standard mapped utilities.
+- **Edge cases:** Loss of the historical self-assignment guarantee, neither direction being assignable, indexed access exposing only reads, mapped types reconstructing ordinary properties, Partial adding undefined, Required removing it, unions/intersections of visible reads, any/unknown/never directionality, invalid write parsing, and accessor behavior absent from snapshots. Official basis: TypeScript 5.1 unrelated getter/setter release notes; checked with TypeScript 7.0.2.
+
+### k-173: Easier Undefined Returns
+
+- **Objective:** Write and contextually infer undefined-returning functions without explicit return statements while keeping the semantic and assignability distinction between undefined and void.
+- **Prerequisites:** Function return annotations, contextual typing, callback assignability, void result erasure, undefined as a value, variadic argument tuples, generic callbacks, async functions, Promise, and Awaited.
+- **Drill dimensions:** Zero/one/optional-argument callbacks, ReturnType extraction, undefined-to-void directionality, number/never/null callback results, concrete functions, contextual callback factories, generic map callbacks, Promise<undefined>, and awaited results.
+- **Edge cases:** Number-returning functions assignable to void but not undefined, never satisfying both, distinct void/undefined utility behavior, contextual versus unconstrained inference, callbacks that must produce actual undefined array elements, Promise<void> directionality, no-return async completion, and any/unknown/never extraction. Official basis: TypeScript 5.1 easier implicit undefined-return release notes; checked with TypeScript 7.0.2.
+
+### k-174: JSX ElementType and Namespaced Attributes
+
+- **Objective:** Separate the library-defined set of legal JSX tag values from the value produced by rendering them, while treating namespaced tags and attributes as exact colon-containing registry keys.
+- **Prerequisites:** Conditional types, keyof registries, function/class components, constructor inference, generic correlation, Promise/Awaited, string-literal keys, optional properties, and runtime reflection boundaries.
+- **Drill dimensions:** Intrinsic/function/class tag membership, ordinary/text/number/null/promise outputs, props extraction, class render results, namespaced intrinsic keys, namespaced optional attributes, invalid tags, renderer parameters/results, and awaited component output.
+- **Edge cases:** Legacy result-coupled component rejection, broad component outputs admitted by ElementType, atomic rather than nested namespace keys, broad strings not intrinsic, union-props correlation loss, empty intersections, optional attribute normalization, runtime callable/constructable reflection, and any/unknown/never tag behavior. Official basis: TypeScript 5.1 decoupled JSX tag checking and namespaced JSX name release notes; checked with TypeScript 7.0.2.
+
+### k-175: Tuple Label Relaxation
+
+- **Objective:** Mix labeled and unlabeled fixed, optional, rest, and spread tuple members while preserving positional structure and understanding labels as editor documentation rather than type identity.
+- **Prerequisites:** Tuple indexing and length, optional/rest elements, variadic tuple spreads, readonly tuples, generic prepend/append, function Parameters, mapped tuples, and strict equality.
+- **Drill dimensions:** Fixed mixed pairs, optional positions, unlabeled and labeled rests, minimum lengths, labeled/unlabeled spread order, empty and readonly sources, prepend/append helpers, function reflection, and bidirectional label-insensitive assignment.
+- **Edge cases:** Labels absent from keyof/runtime objects, renamed labels comparing equal, optional syntax placement, rest minimum arity, mapped/Readonly/Partial transforms, destructuring names independent from labels, union tuple key behavior, any/never/unknown spreads, and the inability of Expect<Equal> to assert label spelling. Official basis: TypeScript 5.2 named and anonymous tuple element release notes; checked with TypeScript 7.0.2.
+
+### k-176: Methods on Unions of Arrays
+
+- **Objective:** Call array methods on unions of array types by applying TypeScript 5.2's combined-element fallback, while recognizing that fresh results trade away the original container correlation.
+- **Prerequisites:** Union and indexed-access types, mutable and readonly arrays, contextual callback typing, generic array overloads, ReturnType/Parameters, structural assignability, and discriminated domain models.
+- **Drill dimensions:** Element extraction, mutable/readonly sources, literal and tuple unions, filter/map fresh results, find/some/every/reduce scalars, callback reflection, comic/audio chapter arrays, and both directions of container assignability.
+- **Edge cases:** Fresh `(A | B)[]` results not assignable back to `A[] | B[]`, existing source identity, guarded mutation, readonly method surfaces, tuple shape loss, empty-array `never`, domain correlation loss, and `any`/`unknown`/`never` element poisoning. Official basis: TypeScript 5.2 easier method usage for unions of arrays release notes; checked with TypeScript 7.0.2.
+
+### k-177: Copying Array Methods
+
+- **Objective:** Use `toReversed`, `toSorted`, `toSpliced`, and `with` as non-mutating ES2023 operations whose TypeScript declarations accept readonly sources and produce new mutable arrays.
+- **Prerequisites:** Mutable and readonly arrays, generic functions, callback parameter typing, tuple indexed access, ReturnType/Parameters, structural assignability, literal unions, and modern standard-library selection.
+- **Drill dimensions:** All four wrapper signatures, comparator/index/item parameters, literal element preservation, readonly inputs, mutable outputs, CopyResult transforms, fixed/optional/rest tuples, built-in method reflection, and key-surface checks.
+- **Edge cases:** Result mutability differing from source mutability, tuple length/label/position collapse, element-constrained replacements, shallow object copying, negative and out-of-bounds runtime indexes, sparse-array densification, and `any`/`unknown`/`never` elements. Official basis: MDN's ES2023 copying-array method references and TypeScript's ESNext standard-library declarations; checked with TypeScript 7.0.2 and Node 24.11.
+
+### k-178: Symbols as Weak Collection Keys
+
+- **Objective:** Use local symbols and objects as `WeakMap`/`WeakSet` keys through TypeScript 5.2's ES2023 `WeakKey` declarations while understanding the runtime exclusion of registered symbols.
+- **Prerequisites:** Symbol and unique-symbol identity, generic constraints, WeakMap/WeakSet method surfaces, conditional extraction, structural assignability, PropertyKey, runtime exceptions, and garbage-collection reachability intuition.
+- **Drill dimensions:** WeakKey membership, unsuitable primitive contrasts, WeakMap key/value extraction, set/get/has/delete signatures, WeakSet add/has/delete, unique-symbol relationships, Symbol.for/keyFor reflection, and helper API parameters/results.
+- **Edge cases:** Registered-symbol provenance missing from static types, runtime TypeError for Symbol.for keys, absent enumeration and size APIs, object/symbol mixed key domains, distinct unique-symbol identities, and `any`/`unknown`/`never` effects on constraints. Official basis: TypeScript 5.2's symbols-as-weak-keys announcement and MDN's WeakMap runtime contract; checked with TypeScript 7.0.2 and Node 24.11.
+
+### k-179: Import Attributes
+
+- **Objective:** Express host-directed module interpretation with static `with { ... }` syntax and dynamic `import(specifier, { with: ... })`, using TypeScript 5.3's open ImportAttributes/ImportCallOptions contracts.
+- **Prerequisites:** ESM module syntax, dynamic import and Promise, readonly literal inference, satisfies, string index signatures, indexed access, noUncheckedIndexedAccess, structural records, and compiler-versus-host responsibility.
+- **Drill dimensions:** JSON and custom attribute records, literal preservation, string-value constraints, ImportCallOptions nesting, optional with fields, record merging, checked reads, generic loader parameters/results, and open host vocabularies.
+- **Edge cases:** Host meanings preserved but not validated, arbitrary string attribute values, obsolete assert syntax, declared index value versus possibly undefined indexed expressions, literal widening, optional option nesting, unknown generic module namespaces, and loader-specific runtime failures. Official basis: TypeScript 5.3 import-attributes release notes; checked with TypeScript 7.0.2 under ESNext/bundler settings.
+
+### k-180: Resolution Mode
+
+- **Objective:** Direct type-only module lookup through `"import"` or `"require"` package conditions with TypeScript 5.3's stable `resolution-mode` import attribute, without creating runtime imports.
+- **Prerequisites:** Conditional package exports, ESM/CommonJS lookup semantics, type-only imports, import attributes, const generics, conditional types, structural records, type erasure, and module-resolution configuration.
+- **Drill dimensions:** Mode literal unions, import/require records, const-generic construction, mode extraction, conditional declaration models, branch filtering, attributed utility identity, ImportAttributes compatibility, and runtime-free helper surfaces.
+- **Edge cases:** Attribute legal only for type requests, lookup selection not format conversion, broad host attribute shape versus closed valid modes, literal widening, packages whose two declaration branches differ, local branches that resolve identically, distributive never, and type-only erasure. Official basis: TypeScript 5.3 stable resolution-mode release notes; checked with TypeScript 7.0.2 under ESNext/bundler settings using real attributed type imports.
+
+### k-181: Switch True Narrowing
+
+- **Objective:** Narrow values inside ordered `switch (true)` case bodies using TypeScript 5.3's predicate-aware control-flow analysis, including positive guards and terminating-branch exclusions.
+- **Prerequisites:** typeof/Array.isArray/equality guards, discriminated unions, Extract/Exclude, truthiness, nullability, control-flow termination, fallthrough semantics, and exhaustive never reasoning.
+- **Drill dimensions:** Primitive slices, accumulated negative information, string/number/array/null branches, discriminated event payloads, ordered range classification, public signature reflection, nullable defaults, and exhaustiveness contrasts.
+- **Edge cases:** Later case expressions not assuming earlier failures, fallthrough merging facts, mutation invalidating refinements, `Array.isArray` producing any elements, truthiness retaining broad falsy inhabitants, numeric predicates not creating interval types, ordering-dependent reachability, and internal facts absent from public signatures. Official basis: TypeScript 5.3 switch-true narrowing release notes; checked with TypeScript 7.0.2.
+
+### k-182: Boolean Comparison Narrowing
+
+- **Objective:** Preserve type-predicate control-flow information through explicit comparisons with `true` and `false`, including reversed and inequality forms introduced in TypeScript 5.3.
+- **Prerequisites:** User-defined type predicates, discriminated unions, positive/complement narrowing, boolean literal types, Extract/Exclude, control-flow termination, function assignability, and structural interfaces.
+- **Drill dimensions:** Predicate anatomy, plain-boolean contrast, text/count positive slices, failed-predicate complements, true/false literal relationships, all comparison spellings, consumer parameters/results, and structural directionality.
+- **Edge cases:** Boolean-return shape alone carrying no predicate, boxed Boolean versus primitive boolean, optional three-state flags, complement precision depending on the original union, mutation/callback invalidation, impossible predicate targets, and predicate erasure through wrappers. Official basis: TypeScript 5.3 boolean-comparison narrowing release notes; checked with TypeScript 7.0.2.
+
+### k-183: Symbol.hasInstance Narrowing
+
+- **Objective:** Narrow an `instanceof` left operand to the declared type-predicate target of a custom static `Symbol.hasInstance` method, even when that target differs from the class instance type.
+- **Prerequisites:** instanceof and prototype chains, unique well-known symbols, static versus instance sides, user-defined type predicates, unknown narrowing, structural typing, classes, and conditional reflection.
+- **Drill dimensions:** PointLike/Point properties, matcher parameters/results, computed-symbol keys, structural plain-object matches, prototype-only methods, constructor parameters/instances, tuple/null consumer results, and an undefined primitive matcher.
+- **Edge cases:** Matching non-instances and primitives, predicate target lacking class methods, literal primitive left operands rejected unless widened, false branches from unknown remaining unknown, lying predicates causing unsoundness, static matcher ownership, and never/unknown extraction behavior. Official basis: TypeScript 5.3 Symbol.hasInstance narrowing release notes; checked with TypeScript 7.0.2 and Node 24.11.
+
+### k-184: Object.groupBy and Map.groupBy
+
+- **Objective:** Group iterable elements with TypeScript 5.4's ES2024 declarations, choosing optional property buckets for PropertyKey groups or identity-preserving Map buckets for arbitrary keys.
+- **Prerequisites:** Iterables, callbacks with element/index parameters, PropertyKey, Partial/Record, optional indexed access, Map APIs, object identity, literal key unions, and standard-library targeting.
+- **Drill dimensions:** Object group records, optional bucket access, status/parity keys, map get/set/has signatures, owner object keys, callback generic order, iterable inputs, bucket element extraction, and structural record/map relationships.
+- **Edge cases:** No guaranteed object buckets, null-prototype result objects, map get absence, numeric property-key coercion, identity-based object keys, grouping keys not refining bucket elements, empty iterables, arbitrary Map keys, and `any`/`unknown`/`never` precision. Official basis: TypeScript 5.4 Object.groupBy/Map.groupBy release notes; checked with TypeScript 7.0.2 and Node 24.11.
+
+### k-185: Preserved Closure Narrowing
+
+- **Objective:** Retain a mutable captured variable's post-narrowing type inside a non-hoisted closure created after its last assignment, using TypeScript 5.4's control-flow analysis.
+- **Prerequisites:** Closure capture, let assignment, typeof/nullish narrowing, URL and array callbacks, generic fallback assignment, function factory reflection, control-flow joins, and mutation invalidation.
+- **Drill dimensions:** URL/string unions, final conversion assignment, nullish string defaults, arrow result factories, array-map callbacks, URL member surfaces, generic defined readers, nullable elimination, and declared-union versus closure-result relationships.
+- **Edge cases:** Closure creation before the final write, later assignments, nested-function writes, hoisted declarations, branch joins that do not establish one type, const's older stability rules, `never` generic instantiations, and internal narrowing absent from factory inputs. Official basis: TypeScript 5.4 preserved closure narrowing release notes; checked with TypeScript 7.0.2.
+
+### k-186: NoInfer Release Lab
+
+- **Objective:** Design realistic APIs in which selected positions author a generic type and `NoInfer`-wrapped positions consume and validate it without contributing inference candidates.
+- **Prerequisites:** Foundational NoInfer semantics, const generics, multiple-candidate inference, callback variance, never-returning functions, explicit/default/contextual type selection, schema shapes, event handlers, and FSM domains.
+- **Drill dimensions:** Intrinsic transparency, transition lists/from/to values, schema/value ownership, transform output/fallback types, event list/handler inputs, authoritative pairs, literal unions, explicit widening, and any/unknown/never classification.
+- **Edge cases:** All sites blocked yielding unknown/default/context, checking still active, callback `never` selecting an uninhabited output, authoritative any poisoning, explicit unknown/widening, contravariant handler relationships, nested wrapper transparency, and NoInfer not acting as validation itself. Official basis: TypeScript 5.4 NoInfer release notes; checked with TypeScript 7.0.2.
+
+### k-187: Inferred Predicate Release Lab
+
+- **Objective:** Apply TypeScript 5.5's inferred type predicates across discriminated domain models and collection overloads without handwritten `value is T` annotations.
+- **Prerequisites:** Foundational inferred-predicate rules, discriminated unions, filter/find overloads, generic nullish guards, Extract/Exclude, callback composition, ReturnType/Parameters, and iff narrowing semantics.
+- **Drill dimensions:** Success/failure/pending slices, named and inline predicates, predicate/plain-boolean assignability, filter/find/some/every surfaces, generic present guards, compact arrays, primitive unknown guards, positive/complement partitions, and top/bottom types.
+- **Edge cases:** Explicit boolean annotations, multiple returns, parameter mutation, Boolean indirection, truthy objects versus falsy primitive inhabitants, extra semantic conditions losing the false direction, ReturnType erasing predicate relationships, generic never/unknown substitutions, and wrapper-induced predicate loss. Official basis: TypeScript 5.5 inferred type predicates release notes; checked with TypeScript 7.0.2.
+
+### k-188: Constant Indexed Control-Flow Analysis
+
+- **Objective:** Narrow repeated `object[key]` and `array[index]` expressions when both the receiver and key are effectively constant, using TypeScript 5.5's indexed-access control-flow facts.
+- **Prerequisites:** Indexed access expressions/types, Record and arrays, typeof/Array.isArray/null guards, effective constness, noUncheckedIndexedAccess, aliases, property writes, and control-flow invalidation.
+- **Drill dimensions:** Unknown and literal records, optional properties, primitive guard slices, readonly arrays, fixed/optional/rest tuples, dynamic string/number keys, checked reads, consumer signatures, mapped record transforms, and key/value unions.
+- **Edge cases:** Reassigning the object or key, property writes invalidating facts, aliases owning distinct flow paths, declared indexed types staying broad outside branches, type-query syntax requiring an alias for computed values, optional/unchecked absence, array element uncertainty, and any defeating useful proof. Official basis: TypeScript 5.5 constant indexed-access narrowing release notes; checked with TypeScript 7.0.2.
+
+### k-189: Isolated Declarations
+
+- **Objective:** Treat `--isolatedDeclarations` as a public-API portability contract that diagnoses exports whose `.d.ts` shape cannot be emitted from one file without cross-file type inference.
+- **Prerequisites:** Declaration emit, exported versus local symbols, explicit function/variable/class annotations, trivial literal inference, project references, declaration/composite compiler flags, mapped utilities, and build graph parallelism.
+- **Drill dimensions:** Trivial literal exports, explicit function signatures, typed function values, annotated class fields/methods/accessors, declaration audit records, export/annotation vocabularies, public transforms, and declaration-visible structural relationships.
+- **Edge cases:** Locals needing no annotations, complex public inference needing them, declaration/composite prerequisite, diagnostics not changing emit, computed property limitations, preserved author-written union spelling, private implementation erasure, explicitness ergonomics, and option adoption remaining case-specific. Official basis: TypeScript 5.5 isolated declarations release notes; checked with TypeScript 7.0.2.
+
+### k-190: configDir
+
+- **Objective:** Anchor reusable tsconfig path options to the consuming configuration directory with TypeScript 5.5's `${configDir}` token instead of the base config's location.
+- **Prerequisites:** Tsconfig extends chains, path-valued compiler options, template literal types, string replacement, readonly arrays/records, paths mappings, derived project directories, and compiler-versus-shell substitution.
+- **Drill dimensions:** Token/path recognition, tail extraction, outDir/declarationDir, typeRoots arrays, paths mappings, concrete shared configs, derived directory examples, expansion API signatures, template unions, and ordinary-relative contrasts.
+- **Edge cases:** Token meaningful only in supported config path fields, not an environment variable, ordinary paths retaining declaring-file relativity, broad strings losing token proof, multiple/separator handling remaining host work, bottom/union template behavior, base config immutability, and expanded strings no longer satisfying the template type. Official basis: TypeScript 5.5 configDir release notes; checked with TypeScript 7.0.2.
+
+### k-191: RegExp Syntax Checking
+
+- **Objective:** Distinguish TypeScript 5.5's compile-time validation of regular-expression literals from the ordinary `RegExp` type and runtime validation of dynamically constructed patterns.
+- **Prerequisites:** RegExp literals and constructors, capture groups, named groups, nullable exec results, ECMAScript target configuration, string escaping, diagnostic ownership, and standard-library RegExp declarations.
+- **Drill dimensions:** Literal instance types, test/exec signatures, named-group surfaces, diagnostic categories, invalid-pattern case data, parser helper inputs/results, constructor parameters, dynamic compilation, capture arrays, and target-aware feature models.
+- **Edge cases:** Constructors escaping literal checking, invalid strings failing only at runtime, target-gated syntax, unmatched and nonexistent captures, open group dictionaries, noUncheckedIndexedAccess expression behavior, global/sticky lastIndex mutation, broad capture typing, and compiler diagnostics not refining RegExp types. Official basis: TypeScript 5.5 regular-expression syntax checking release notes; checked with TypeScript 7.0.2.
+
+### k-192: JSDoc @import
+
+- **Objective:** Bring module types into checked JavaScript with TypeScript 5.5's JSDoc `@import` tag while preserving the hard boundary between type-space names and runtime module loading.
+- **Prerequisites:** JavaScript checking with allowJs/checkJs, JSDoc type annotations, ECMAScript named and namespace imports, import-expression types, typedef aliases, type erasure, module resolution, discriminated unions, and const generic inference.
+- **Drill dimensions:** Named/namespace forms, literal module specifiers, imported-name tuples, namespace aliases, generic import models, discriminant filtering, module/name extraction, render/reference helper signatures, union assignability, and runtime-effect vocabulary.
+- **Edge cases:** File-scoped names, no emitted bindings, comments requiring checked JavaScript context, caller-induced literal widening, empty name tuples and never, only common union keys being directly indexable, unresolved modules/exports remaining diagnostics, namespace qualification, and runtime helpers manipulating comment strings rather than modules. Official basis: TypeScript 5.5 JSDoc import-tag release notes; checked with TypeScript 7.0.2.
+
+### k-193: Iterator Helpers
+
+- **Objective:** Build lazy pipelines with the native Iterator Helpers API while distinguishing the minimal iterator protocol from TypeScript 5.6's helper-bearing `IteratorObject`.
+- **Prerequisites:** Iterable/Iterator/IterableIterator protocols, generators, iterator result objects, generic yield/return/next channels, type predicates, Map/Set/Array iterators, lazy evaluation, and terminal operations.
+- **Drill dimensions:** IteratorObject anatomy, map/filter/take/drop/flatMap, callback value/index parameters, toArray/reduce/find/some/every/forEach, Iterator.from adaptation, collection iterator subtypes, element-channel extraction, helper function reflection, and iterable assignability.
+- **Edge cases:** Laziness and one-shot consumption, protocol-only iterators lacking helpers, predicate refinement versus broad overload reflection, empty reductions, infinite inputs needing a limiter, never element streams, done-aware next results, helper return channels, terminal values losing laziness, and collection-specific iterator return types. Official basis: TypeScript 5.6 iterator-helper release notes; checked with TypeScript 7.0.2 and Node 24.11.
+
+### k-194: Strict Built-in Iterator Return
+
+- **Objective:** Read iterator results through their `done` discriminant and understand how TypeScript 5.6's strict built-in return channel prevents `any` from hiding exhausted iterators.
+- **Prerequisites:** Iterator/IteratorObject/Generator channels, IteratorResult unions, optional discriminants, control-flow narrowing, intrinsic types, strict compiler settings, any/unknown/never behavior, and built-in collection iterators.
+- **Drill dimensions:** Yield/return result branches, value/done properties, BuiltinIteratorReturn, array/set/map iterator channels, explicit generator completion, done-based extraction, consumer function signatures, nullable unchecked values, generic drains, and assignability.
+- **Edge cases:** Legacy any poisoning, unknown requiring proof, never eliminating a return value, strictness affecting built-ins rather than every Iterator instantiation, optional false discriminants, unrelated generator yield/return types, custom explicit completion, variance across channels, exhausted built-in undefined, and terminal result handling. Official basis: TypeScript 5.6 strict built-in iterator return release notes; checked with TypeScript 7.0.2 and Node 24.11 under strict mode.
+
+### k-195: Unchecked Side-effect Imports
+
+- **Objective:** Make binding-free imports participate consistently in module resolution with TypeScript 5.6's `noUncheckedSideEffectImports`, while using ambient declarations deliberately for non-code assets.
+- **Prerequisites:** ESM side-effect imports, module resolution, ambient module declarations, wildcard specifiers, bundler asset loaders, template literal types, discriminated configuration models, satisfies, and compiler-versus-runtime responsibility.
+- **Drill dimensions:** Source/ambient/missing resolutions, checked/accepted/error outcomes, literal case matrices, generic case instantiation, wildcard asset patterns, extension extraction, renderer/auditor signatures, conditional outcome mapping, open specifiers, and closed diagnostic vocabularies.
+- **Edge cases:** Ambient declarations not proving file existence, resolution not proving runtime effects, wildcard declarations weakening typo detection, broad-string widening, value imports being outside this option's special case, package and relative specifiers sharing the check, never extraction, top/bottom assignability, and model helpers not running the compiler resolver. Official basis: TypeScript 5.6 noUncheckedSideEffectImports release notes; checked with TypeScript 7.0.2 with the option enabled.
+
+### k-196: Arbitrary Module Identifiers
+
+- **Objective:** Export and import exact string-literal module names that are not legal local identifiers, using aliases to bridge generated/WebAssembly boundaries to ordinary TypeScript bindings.
+- **Prerequisites:** ESM export/import aliases, module namespace objects, string-literal keys, `typeof import`, template classification, exact literal inference, generated-code interoperability, value/type namespaces, and host transform support.
+- **Drill dimensions:** Real quoted imports, punctuation/hyphen/numeric-looking names, local alias types, module-shape indexing, boundary-name unions, binding case extraction, generic external/local mappings, runtime value lookup, renderer signatures, and structural relationships.
+- **Edge cases:** Exact case-sensitive spelling, legal local aliases still required, missing names becoming never, duplicate exports remaining invalid, empty/spaced names as boundary models, object keys being an older unrelated feature, dynamic strings not yielding precise static lookup, transform/runtime compatibility, closed-name unions, and top/bottom assignability. Official basis: TypeScript 5.6 arbitrary module identifier release notes; checked with TypeScript 7.0.2, Vitest 4.1, and Node 24.11 using real quoted-name syntax.
+
+### k-197: Syntactic Truthy and Nullish Checks
+
+- **Objective:** Recognize legal-but-suspicious expression forms that TypeScript 5.6 diagnoses as always truthy or as making a nullish-coalescing branch unreachable, then write the intended call/comparison/parenthesized form.
+- **Prerequisites:** JavaScript truthiness, RegExp objects versus test calls, arrow/comparison syntax, operator precedence, nullish coalescing, literal constants, compiler diagnostics, template literal classification, and conditional types.
+- **Drill dimensions:** Truthy/nullish diagnostic categories, suspicious syntax families, literal compiler-case matrices, conditional diagnostic mapping, RegExp tests, comparison helpers, nullable maximum parameters, classifier signatures, allowed constants, and result decomposition.
+- **Edge cases:** Syntax heuristics rather than general theorem proving, explicit `true`/`false`/`0`/`1` exceptions, identifiers/calls remaining dynamic, comparisons producing non-nullish booleans before `??`, parenthesization changing meaning, future diagnostic categories, never extraction, bad examples needing data representation, and diagnostic models not invoking the compiler. Official basis: TypeScript 5.6 disallowed nullish/truthy checks release notes; checked with TypeScript 7.0.2.
+
+### k-198: noCheck and Build-through-errors
+
+- **Objective:** Separate fast emission from full semantic checking with TypeScript 5.6's `noCheck`, and choose deliberately between best-effort project-reference builds and `stopOnBuildErrors` fail-fast scheduling.
+- **Prerequisites:** Compiler parse/check/emit phases, noEmit, declaration emit, isolatedDeclarations, project references, build mode, build-info state, incremental/watch workflows, generic project graphs, and policy modeling.
+- **Drill dimensions:** Emit/typecheck pass unions, continue/stop policies, clean/error statuses, emitted/error/skipped outcomes, conditional outcome mapping, literal project graphs, error-project extraction, input/record generics, build-info invariants, and planner reflection.
+- **Edge cases:** noCheck still parsing and doing emit-required semantics, declaration inference without isolatedDeclarations, parallel passes needing separate build-info files, emitted output not proving correctness, error status surviving best-effort emit, fail-fast only affecting downstream scheduling, empty graphs and never, always-written build state, and model helpers not being compiler invocations. Official basis: TypeScript 5.6 noCheck and build-through-errors release notes; checked with TypeScript 7.0.2.
+
+### k-199: Never-initialized Variables
+
+- **Objective:** Understand TypeScript 5.7's closure-aware lower bound for definite assignment: a captured local with no assignment anywhere is now diagnosed, while possibly assigned captures retain optimistic timing.
+- **Prerequisites:** Local variable declaration/initialization, definite-assignment control flow, conditional branches, nested closures, capture timing, optional values, discriminated policy models, template extraction, and strict nullability.
+- **Drill dimensions:** None/conditional/definite/initializer evidence, same-scope versus nested reads, used-before-assigned/optimistic/safe outcomes, conditional policy mapping, literal case matrices, generic case shapes, fixed closure factories, optional inputs, result reflection, and assignability.
+- **Edge cases:** “never initialized” not meaning the never type, no-assignment versus possible-assignment closure behavior, same-scope analysis remaining stricter, call order still not proven, explicit undefined requiring an optional type, class-field initialization being separate, closed model limitations, invalid examples stored as data, never extraction, and top/bottom relationships. Official basis: TypeScript 5.7 never-initialized variable checks release notes; checked with TypeScript 7.0.2.
+
+### k-200: Relative Extension Rewriting
+
+- **Objective:** Use TypeScript 5.7's `rewriteRelativeImportExtensions` mental model to map in-place TypeScript source specifiers to emitted JavaScript paths without confusing syntactic rewriting with module resolution.
+- **Prerequisites:** Static ESM specifiers, relative/package/import-map/path-alias forms, TypeScript and JavaScript file extensions, declaration files, template literal inference, conditional distribution, const generics, in-place TS runtimes, and emit.
+- **Drill dimensions:** `.ts/.tsx/.mts/.cts` mappings, `.js/.jsx/.mjs/.cjs` outputs, relative-path predicates, direct versus full rewrite types, declaration detection, package/hash/alias exclusions, extensionless/existing-JS paths, union rewriting, runtime literal preservation, and case matrices.
+- **Edge cases:** Declaration-file exclusion, naive suffix mapping versus full eligibility, dynamic/computed imports, broad strings, query/hash/case variants, package exports/imports and paths not being resolved, rewritten specifiers still needing emitted files, union distribution, never propagation, and host runtime responsibility. Official basis: TypeScript 5.7 relative import extension rewriting release notes; checked with TypeScript 7.0.2.
+
+### k-201: Generic Typed Arrays
+
+- **Objective:** Preserve the exact `ArrayBuffer` or `SharedArrayBuffer` backing store through TypeScript 5.7's generic typed-array declarations and design APIs that express aliasing versus copying.
+- **Prerequisites:** ArrayBuffer/SharedArrayBuffer/ArrayBufferLike, typed-array views and numeric indexing, generic defaults/constraints, conditional inference, structural assignability, subarray versus slice runtime semantics, unions, and ES2024 library declarations.
+- **Drill dimensions:** Default/broad and precise buffers, Uint8Array/Int32Array families, buffer-property types, backing extraction, inferred local/shared views, subarray/slice return types, helper propagation, element invariance, union distribution, and assignability.
+- **Edge cases:** Default arguments deliberately broadening ownership, local/shared views not being interchangeable, subarray aliasing versus slice copying, unsupported view families yielding never in the lesson utility, bottom propagation, broad ArrayBufferLike inputs, Node declaration compatibility, shared/local runtime identity, and element types remaining numeric. Official basis: TypeScript 5.7 ES2024/generic typed-array release notes; checked with TypeScript 7.0.2 and Node 24.11 using real ArrayBuffer and SharedArrayBuffer views.
+
+### k-202: NodeNext JSON Imports
+
+- **Objective:** Match Node's ESM JSON contract under TypeScript 5.7 NodeNext validation by supplying `with { type: "json" }` and treating JSON as a default-only module export.
+- **Prerequisites:** NodeNext ESM resolution, import attributes, default/namespace/named imports, module namespace objects, resolveJsonModule content typing, discriminated validation matrices, generic wrappers, and compiler-versus-loader responsibility.
+- **Drill dimensions:** Import forms, attribute presence, access forms, validation outcomes, conditional rule matrices, literal case extraction, JSON attribute records, default-only namespaces, payload unwrapping, generic unknown/never values, and structural relationships.
+- **Edge cases:** Attributes governing loading rather than schema, object keys not becoming named exports, namespace access through `.default`, validation being NodeNext-specific, resolveJsonModule addressing a separate concern, dynamic/tooling host support, closed-form limitations, model helpers not loading files, impossible forms yielding never, and top/bottom assignability. Official basis: TypeScript 5.7 validated NodeNext JSON import release notes; checked with TypeScript 7.0.2.
+
+### k-203: Granular Return-expression Checks
+
+- **Objective:** Understand TypeScript 5.8's branch-by-branch checking of conditional expressions directly returned from annotated functions, especially where `any` would otherwise absorb an incompatible branch.
+- **Prerequisites:** Conditional expressions, declared versus inferred return types, contextual typing, assignability, any/unknown/never algebra, URL construction/narrowing, template extraction, conditional types, and diagnostic modeling.
+- **Drill dimensions:** Direct/temporary/inferred return sites, compatible/true-error/false-error outcomes, conditional branch mapping, literal diagnostic cases, any absorption, unknown/never contrasts, annotated corrected APIs, classifier reflection, branch booleans, and structural relationships.
+- **Edge cases:** The feature not eliminating any, temporaries erasing branch evidence, inferred returns lacking a declared target, unknown forcing proof, never disappearing from unions, direct-return specificity, branch-order diagnostics in the lesson model, nested conditional reasoning, invalid examples represented as data, and top/bottom assignability. Official basis: TypeScript 5.8 granular return-expression checks release notes; checked with TypeScript 7.0.2.
+
+### k-204: Require ESM from CommonJS
+
+- **Objective:** Model TypeScript 5.8 NodeNext support for synchronously requiring ESM from CommonJS on modern Node while respecting the runtime prohibition on top-level-await module graphs.
+- **Prerequisites:** CommonJS require, ESM namespaces, Node module modes, stable versus moving configuration targets, top-level await, synchronous versus asynchronous evaluation, dynamic import, Promise/Awaited, conditional support matrices, and host responsibility.
+- **Drill dimensions:** Node18/NodeNext modes, Node18/22+ runtimes, synchronous/TLA graphs, compiler/runtime/supported outcomes, conditional compatibility matrices, literal migration cases, namespace default/named members, require rendering, dynamic-import callbacks, and promise reflection.
+- **Edge cases:** Top-level await anywhere transitively blocking synchronous require, compiler acceptance not scanning deployed graphs, NodeNext moving with Node behavior, stable modes freezing older rules, namespace rather than default-only results, dynamic import always asynchronous, dual-package identity concerns, closed-version models, impossible modes yielding never, and top/bottom relationships. Official basis: TypeScript 5.8 NodeNext require-of-ESM release notes; checked with TypeScript 7.0.2 and Node 24.11.
+
+### k-205: Erasable Syntax Only
+
+- **Objective:** Keep TypeScript source compatible with native type-stripping runtimes by allowing syntax that can disappear and replacing constructs that require TypeScript-specific runtime transforms.
+- **Prerequisites:** Type erasure versus transformation, Node type stripping, enums, namespaces, parameter properties, import-equals/export-equals, type-only imports, verbatimModuleSyntax, const objects, explicit class fields, and conditional classification.
+- **Drill dimensions:** Type annotation/interface/alias/import/assertion/generic forms, enum/namespace/property/equals forms, distributive erasability mapping, literal policy cases, const-object enum replacement, direction value unions, explicit-field classes, constructor/instance reflection, classifier signatures, and structural relationships.
+- **Edge cases:** Erasable not meaning type-correct, assertions disappearing without runtime validation, const enums remaining enum-family transforms, ambient/type-only namespaces differing from runtime namespaces, JavaScript/runtime feature support still required, verbatim imports protecting intent, closed syntax models, model helpers not parsing code, never extraction, and top/bottom assignability. Official basis: TypeScript 5.8 erasableSyntaxOnly release notes; checked with TypeScript 7.0.2.
+
+### k-206: Lib Replacement
+
+- **Objective:** Control whether selected standard-library declarations may be sourced from `@typescript/lib-*` packages with TypeScript 5.8's `libReplacement`, without confusing lookup policy with `lib` selection.
+- **Prerequisites:** TypeScript bundled lib declarations, compiler `lib` selection, package resolution, `@typescript/lib-*` overrides, template literal types, lowercase intrinsics, conditional configuration models, node_modules watching, skipLibCheck, and runtime/declaration separation.
+- **Drill dimensions:** DOM/ES2024/WebWorker families, enabled/disabled lookup, installed/missing packages, replacement/bundled sources, conditional source matrices, package-name derivation, literal resolution cases, generic lib case shapes, resolver reflection, and structural relationships.
+- **Edge cases:** Replacement not selecting libs, declarations not polyfilling runtime APIs, missing packages falling back, disabled lookup ignoring installed overrides, package compatibility ownership, skipLibCheck and @types being separate, package-name convention not installation proof, closed family models, resolver helpers not probing node_modules, and top/bottom assignability. Official basis: TypeScript 5.8 libReplacement release notes; checked with TypeScript 7.0.2.
+
+### k-207: Import Defer
+
+- **Objective:** Separate static module linking/loading from evaluation with TypeScript 5.9's namespace-only `import defer`, and know when first namespace access triggers one-time execution.
+- **Prerequisites:** ESM linking/loading/evaluation phases, namespace imports, static versus dynamic imports, module side effects, Proxy/Reflect runtime modeling, const generics, conditional mode validation, module emit modes, and host transform support.
+- **Drill dimensions:** Namespace/named/default forms, ESNext/preserve/CommonJS/NodeNext modes, supported/syntax/mode outcomes, conditional support matrices, literal cases, deferred namespace generics, evaluator/observer functions, property-access triggers, rendered syntax, and structural relationships.
+- **Edge cases:** Resolution/loading errors occurring before evaluation, only namespace export access triggering execution, one-time evaluation, destructuring/key inspection forcing access, type-only references not evaluating, dynamic import returning a Promise while defer does not, no TypeScript downlevel, closed host-mode model limits, proxy helper being only a timing model, and top/bottom assignability. Official basis: TypeScript 5.9 import-defer release notes; checked with TypeScript 7.0.2 and a runtime evaluation model.
+
+### k-208: node20 and Modern Module Config
+
+- **Objective:** Choose deliberately between TypeScript 5.9's stable `node20` module mode and the floating `nodenext` mode, including each mode's resolution partner, implied target, and modern `require(ESM)` behavior.
+- **Prerequisites:** Node ESM/CommonJS format detection, package `type`, file extensions, `module`, `moduleResolution`, target implication, stable versus floating configuration, require-of-ESM, and bundler resolution.
+- **Drill dimensions:** Module and resolution mode vocabularies, implied targets, stability tags, correlated configuration records, overload selection, effective-target overrides, tuple-preserved call results, union projections, and assignability.
+- **Edge cases:** `node20` pairing with the `node16` resolver spelling, explicit target overrides, `lib` remaining independent, per-file module format, top-level-await runtime limitations, bundler mode serving a different host contract, overload reflection selecting the final signature, never extraction, and top/bottom relationships. Official basis: TypeScript 5.9 `node20` module support and TSConfig module/moduleResolution reference; checked with TypeScript 7.0.2.
+
+### k-209: Strict Family Unpacked
+
+- **Objective:** Replace the vague idea of “strictness” with a working model of the six strict-family checks and the distinct boundary each one protects.
+- **Prerequisites:** Nullability, implicit any, receiver typing, function variance, class initialization, catch-variable narrowing, compiler flag bundles, indexed access, and structural assignability.
+- **Drill dimensions:** Strict member unions, per-member effects and explanations, record keys and values, scenario extraction and exclusion, literal-preserving rule lookup, runtime inventory reflection, and top/bottom comparisons.
+- **Edge cases:** `strict` being versioned, adjacent hardening flags remaining separate, method bivariance differing from function properties, unknown catch values requiring proof, explicitly disabling members, broad strings losing the closed vocabulary, never extraction, and declarations not changing runtime. Official basis: TSConfig strict-family reference; checked with TypeScript 6.0.3 and 7.0.2.
+
+### k-210: Strict-adjacent Hardening Flags
+
+- **Objective:** Choose strict-adjacent options deliberately for property presence, indexed reads, override intent, index signatures, switch flow, and side-effect import resolution.
+- **Prerequisites:** The strict bundle, optional properties, index signatures, class inheritance, switch control flow, module resolution, generic policy records, Set, and exact optional semantics.
+- **Drill dimensions:** Six independent flags, failure-mode vocabulary, strict-alone queries, flag profile construction, case extraction, rule correlation, helper reflection, and structural relations.
+- **Edge cases:** Adjacent flags not being implied by `strict`, optional absence versus explicit undefined, indexed reads remaining uncertain after configuration, index syntax encoding provenance, override refactor safety, host resolution versus effects, never and broad-string behavior, and staged migrations. Official basis: TSConfig option reference; checked with TypeScript 6.0.3 and 7.0.2.
+
+### k-211: Modern Compiler Defaults
+
+- **Objective:** Internalize TypeScript 6.0’s modern zero-config defaults while knowing which deployment-sensitive choices should still be pinned explicitly.
+- **Prerequisites:** Compiler defaults, strict mode, module emit, target versus lib, side-effect imports, lib replacement, ambient type packages, rootDir, readonly tuples, and floating configuration.
+- **Drill dimensions:** Default names and values, the complete defaults record, empty types tuples, scenario-to-value lookup, literal configuration reflection, extraction/exclusion, and function signatures.
+- **Edge cases:** Current-year target floating across releases, explicit config overriding defaults, `types: []` not blocking imported package declarations, rootDir changing output layout, target not guaranteeing runtime support, false lib replacement not selecting libraries, broad values, and never. Official basis: TypeScript 6.0 simple defaults, rootDir, and types release notes; checked against both installed compilers.
+
+### k-212: this-less Function Context Sensitivity
+
+- **Objective:** Trace generic inference through context-sensitive callbacks and understand why TypeScript 6.0 can use `this`-less methods as earlier inference evidence.
+- **Prerequisites:** Contextual typing, generic candidate gathering, method versus arrow syntax, implicit this, object-literal property order, unknown fallbacks, explicit parameters, and later-argument inference.
+- **Drill dimensions:** Six inference scenarios, reversed method order, real producer/consumer calls, callback-before-value inference, generic instantiation expressions, rule extraction, function reflection, and outcome comparison.
+- **Edge cases:** Actual this use preserving context sensitivity, no independent candidates falling back safely, annotations breaking cycles, property order no longer deciding this-less cases, arrow functions lacking implicit receivers, overload/generic inference remaining separate, broad strings, never, and modeled invalid cases. Official basis: TypeScript 6.0 less-context-sensitivity release notes; exercised on 6.0.3 and 7.0.2.
+
+### k-213: Stable Type Ordering
+
+- **Objective:** Separate semantic type equality from textual ordering and use `stableTypeOrdering` as a temporary TypeScript 6-to-7 comparison probe.
+- **Prerequisites:** Union normalization, declaration emit, internal type and symbol identities, generic inference order, deterministic sorting, native parallel checking, explicit type arguments, and performance measurement.
+- **Drill dimensions:** Legacy/native ordering scenarios, semantically equal reordered unions, declaration-noise classification, inference stabilization, explicit boundaries, rule matrices, and helper signatures.
+- **Edge cases:** Equal unions printing differently, ordering occasionally exposing inference differences, the flag costing check time, explicit annotations providing stable evidence, it being migration-only rather than long-term config, runtime values ignoring union order, broad strings, never, and unknown. Official basis: TypeScript 6.0 stableTypeOrdering release notes; compared with installed TypeScript 6 and 7 compilers.
+
+### k-214: ES2025 Lib and RegExp.escape
+
+- **Objective:** Distinguish target from lib while using the ES2025 declaration surface and treating arbitrary text as a safely escaped literal regular-expression fragment.
+- **Prerequisites:** Compiler target/lib separation, RegExp construction, metacharacters, string escaping, Stage 4 library promotion, Set methods, iterator helpers, Promise.try, and host capability.
+- **Drill dimensions:** Promoted API names, real RegExp.escape parameters and return, escaped punctuation, literal matching helpers, ES2025 rule extraction, target/lib policies, and assignability.
+- **Edge cases:** Escaping fragments rather than whole patterns, no automatic anchoring, runtime support not following declarations, replacement text having different escaping rules, broad strings remaining broad, Unicode/word-boundary choices belonging to the caller, never extraction, and feature detection. Official basis: TypeScript 6.0 ES2025 and RegExp.escape release notes; runtime checked on Node 24.11.
+
+### k-215: Temporal API Types
+
+- **Objective:** Keep instants, calendar dates, wall times, zones, durations, and clocks distinct while reading TypeScript’s real Temporal declarations without assuming a polyfill.
+- **Prerequisites:** Namespace declarations, static factories, exact timeline instants, calendars, time zones, duration-like inputs, ReturnType/Parameters, lib selection, and runtime feature detection.
+- **Drill dimensions:** Six Temporal concepts, real Instant/Now/PlainDate signatures, duration addition, factory parameter and return types, rule lookup, scenario extraction, and declaration/runtime separation.
+- **Edge cases:** ESNext declarations not installing `globalThis.Temporal`, plain values lacking zones, ZonedDateTime carrying zone/calendar context, durations not being timestamps, host clock nondeterminism, serialization and disambiguation choices, never/unknown relationships, and feature-detected runtime tests. Official basis: TypeScript 6.0 Temporal release notes and ESNext Temporal declarations; typechecked with 6.0.3 and 7.0.2.
+
+### k-216: Map Upsert Methods
+
+- **Objective:** Read the precise eager and computed upsert signatures, preserve K/V correlation, and understand when the factory runs.
+- **Prerequisites:** Map and WeakMap generics, `get` absence, `has`, callbacks, lazy default construction, key-aware factories, indexed method types, synchronous evaluation, and polyfill design.
+- **Drill dimensions:** Hit/miss matrices, native method parameters and returns, generic computed helper behavior, key/value variations, scenario extraction, callback types, runtime insertion, and rule correlation.
+- **Edge cases:** Stored undefined requiring `has`, callbacks running only on misses, synchronous exceptions propagating, no cross-process atomicity, WeakMap key constraints, declarations ahead of Node runtime, polyfill race semantics, never/unknown, and broad keys. Official basis: TypeScript 6.0 upsert release notes and ESNext collection declarations; runtime uses a documented local helper because Node 24.11 lacks the methods.
+
+### k-217: Set, Iterator, and Promise ES2025 APIs
+
+- **Objective:** Read evaluation strategy from ES2025 Set, Iterator, and Promise signatures and preserve element/value types through their operations.
+- **Prerequisites:** Set algebra, Set-like inputs, iterables versus iterators, lazy iterator helpers, Promise adoption, synchronous throws, generics, and ES2025 lib selection.
+- **Drill dimensions:** Union/difference/subset operations, Iterator.from/map/toArray, Promise.try, real method reflection, eager versus lazy outcomes, runtime set and iterator helpers, rule matrices, and assignability.
+- **Edge cases:** Set methods returning new sets, equality using SameValueZero, iterator helpers being one-shot and lazy, Promise.try always returning a Promise, callbacks throwing, lib declarations not polyfilling hosts, never/unknown, and open iterable inputs. Official basis: TypeScript 6.0 ES2025 release notes and standard library declarations; runtime checked on Node 24.11.
+
+### k-218: DOM Iterable Consolidation
+
+- **Objective:** Understand why selecting `dom` alone exposes iterable and async-iterable DOM members in TypeScript 6.0 and why that remains only a declaration choice.
+- **Prerequisites:** Compiler lib selection, declaration merging, Iterable/AsyncIterable, NodeList, HTMLCollection, FormData, structural iterable collections, browser versus server hosts, and for-of.
+- **Drill dimensions:** DOM/lib scenario matrix, structural iterable collection keys, generic collection helpers, DOM-only lib selection, iterator outcomes, rule extraction, function reflection, and literal inventories.
+- **Edge cases:** Old granular libs becoming empty accepted shims, DOM not belonging in server config merely to silence errors, declarations not installing document, collection liveness, iterator element types, async iteration remaining host-specific, never/broad strings, and top/bottom relationships. Official basis: TypeScript 6.0 DOM iterable consolidation release notes; checked with 6.0.3 and 7.0.2.
+
+### k-219: Module Resolution Tightening
+
+- **Objective:** Map each TypeScript 6 legacy module deprecation to a host-correct modern replacement before native TypeScript removes it.
+- **Prerequisites:** NodeNext and bundler resolution, ESM/CommonJS emit, AMD/UMD/System, baseUrl and paths, package imports, import attributes, outFile, interop defaults, and deprecation suppression.
+- **Drill dimensions:** Six migration scenarios, host-to-resolution selection, modern emit unions, import-attribute syntax, replacement action lookup, rule correlation, helper reflection, and extraction/exclusion.
+- **Edge cases:** `ignoreDeprecations` buying time but not TypeScript 7 support, paths not needing baseUrl, Node and bundler resolution serving different hosts, false interop modes being obsolete, legacy namespace module syntax versus ambient modules, CLI files with config requiring ignoreConfig, never/unknown, and broad strings. Official basis: TypeScript 6.0 breaking changes and deprecations; checked with both installed compiler lines.
+
+### k-220: TypeScript 6 Migration Capstone
+
+- **Objective:** Turn the 6-to-7 transition into an ordered findings-and-actions workflow covering defaults, ambient types, output roots, removals, ordering comparison, and dual compilers.
+- **Prerequisites:** All Phase 11 lessons, migration inventories, configuration ownership, compiler diagnostics, declaration comparison, stable ordering, `@typescript/typescript6`, native tsc, blocking findings, and CI gates.
+- **Drill dimensions:** Migration action unions, typed findings, blocking filters, readiness checks, six workstreams, scenario/outcome extraction, helper parameters and returns, and matrix correlation.
+- **Edge cases:** Suppressions being temporary, green runtime tests not proving declaration parity, type-order text noise versus semantic regressions, API-dependent tools retaining 6.0, explicit types/rootDir/defaults reducing drift, unsupported flags blocking 7.0, never/unknown, and partial findings. Official basis: TypeScript 6.0 preparation guidance and TypeScript 7 side-by-side package guidance; verified with TypeScript 6.0.3 and 7.0.2.
+
+### k-221: Native Compiler Architecture
+
+- **Objective:** Understand what the Go-native port changes about execution architecture while keeping those changes separate from TypeScript language semantics.
+- **Prerequisites:** Compiler parse/bind/check/emit stages, native code, shared memory, worker parallelism, data layout, garbage collection, CLI processes, compatibility goals, and performance measurement.
+- **Drill dimensions:** Implementation/language distinctions, compiler-stage unions, native architecture records, independently parallel stages, six architecture rules, extraction/exclusion, helper reflection, and structural comparisons.
+- **Edge cases:** Native speed not changing soundness, checker work being less independent than parsing/emit, compatibility requiring tests rather than shared source code, memory and wall time being separate metrics, public APIs constraining representation, broad scenarios, never/unknown, and host-dependent results. Official basis: TypeScript 7.0 final announcement and native-port architecture material; checked with TypeScript 7.0.2.
+
+### k-222: TypeScript 6/7 Compatibility Contract
+
+- **Objective:** Apply the exact compatibility baseline: clean TypeScript 6 with stable ordering and no deprecation suppression before expecting native TypeScript 7 parity.
+- **Prerequisites:** TypeScript 6 migration, stableTypeOrdering, ignoreDeprecations, hard removals, semantic diagnostics, declaration emit, CLI versus API surfaces, compatibility evidence, and parity classification.
+- **Drill dimensions:** Six compatibility states, typed evidence records, native-candidate checks, surface unions, rule correlation, scenario extraction, function reflection, and top/bottom relationships.
+- **Edge cases:** Suppressed deprecations invalidating readiness, diagnostic wording differing, declaration ordering noise, JavaScript analysis differences, compiler API exclusion from CLI parity, runtime tests remaining independent, broad strings, and never/unknown. Official basis: TypeScript 7.0 compatibility guidance; cross-checked with the repository’s solved TypeScript 6/7 fixture.
+
+### k-223: Checker and Builder Parallelism
+
+- **Objective:** Tune checkers and project-reference builders from an explicit CPU/memory model and know when to use fully single-threaded operation.
+- **Prerequisites:** Parallel parsing/checking/emitting, worker-local checker views, project references, dependency DAGs, isolated declarations, duplicated work, CPU cores, peak memory, benchmarking, and deterministic input division.
+- **Drill dimensions:** Default/one/many checker modes, builder concurrency, multiplicative worker counts, Parallelism records, validation helpers, scenario lookups, rule extraction, and structural comparison.
+- **Edge cases:** More workers increasing memory, `checkers * builders` creating excessive concurrency, graph width limiting builders, checker counts occasionally surfacing order dependence, fixed CI settings improving reproducibility, singleThreaded affecting all stages, never/unknown, and invalid counts. Official basis: TypeScript 7.0 parallelization controls; runtime models the documented potential-worker calculation.
+
+### k-224: Native Watch Mode
+
+- **Objective:** Model the rebuilt Go/Parcel watcher as the event foundation while keeping compiler graph invalidation and project propagation conceptually separate.
+- **Prerequisites:** Filesystem events, cross-platform watchers, polling costs, program graphs, module dependencies, project references, public declaration outputs, atomic saves, generated files, regular expressions, and event coalescing.
+- **Drill dimensions:** Watch architecture scenarios, create/change/delete events, program-relevant extension classification, event coalescing, rule correlation, helper parameters/returns, extraction, and inventories.
+- **Edge cases:** Efficient events not eliminating expensive invalidation, generated outputs causing loops, dependency directories dominating polling, delete/create save patterns, public output changes propagating, non-code configuration files still mattering beyond the narrow helper, broad paths, never, and unknown. Official basis: TypeScript 7.0 improved-watch-mode announcement; checked with the shipped native compiler.
+
+### k-225: LSP and Editor Architecture
+
+- **Objective:** Distinguish standard LSP transport and concurrent editor requests from legacy TSServer plugin and embedded compiler-API compatibility.
+- **Prerequisites:** Language Server Protocol, JSON-RPC-style request methods, diagnostics, completions, hover/navigation/refactors, project context, multithreading, TSServer plugins, embedded languages, and editor integration.
+- **Drill dimensions:** LSP method unions, generic request records, method extraction, six editor architecture scenarios, rule lookup, request reflection, scenario extraction, and assignability.
+- **Edge cases:** LSP support not porting TSServer plugins, protocol capability negotiation, editors owning integration/version selection, embedded-language virtual files needing APIs, concurrent requests sharing project state, editor diagnostics versus CLI gates, broad methods, never, and unknown. Official basis: TypeScript 7.0 editor-experience and embedded-language guidance.
+
+### k-226: Compiler API and Side-by-side Use
+
+- **Objective:** Select TypeScript 7 for native CLI/LSP work and `@typescript/typescript6` for tooling that still requires the legacy programmatic API.
+- **Prerequisites:** `tsc`, `tsc6`, npm aliases, compiler Program/AST APIs, LSP, peer dependencies, embedded language tooling, capability-based selection, CI dual runs, and the TypeScript 7.1 horizon.
+- **Drill dimensions:** Tool capability and compiler-choice unions, selection helpers, six deployment scenarios, rule extraction, API/CLI distinctions, helper reflection, and structural relationships.
+- **Edge cases:** TypeScript 7.0 exposing no stable API, `@typescript/typescript6` re-exporting the old API, peer dependencies expecting the `typescript` package name, embedded tools needing evaluation, future 7.1 shape remaining unspecified, dual versions needing explicit ownership, never/unknown, and broad capabilities. Official basis: TypeScript 7.0 side-by-side and embedded-language guidance; repository dependencies exercise both executables.
+
+### k-227: Configuration Hard Removals
+
+- **Objective:** Replace every major TypeScript 7 hard-removed configuration or syntax family with a host-correct modern design rather than a suppression.
+- **Prerequisites:** TypeScript 6 deprecations, ES targets, NodeNext/bundler resolution, ESNext/preserve modules, root-relative paths, interop, strict mode, namespace syntax, import attributes, and external downlevel transforms.
+- **Drill dimensions:** Removed/replacement unions, migration-required predicate, six removal groups, scenario-to-action mapping, rule extraction, helper reflection, and closed-vocabulary comparisons.
+- **Edge cases:** ignoreDeprecations no longer restoring behavior, ES5 requiring external transforms, baseUrl removal not removing paths, module and moduleResolution needing coherent hosts, false interop/alwaysStrict settings becoming invalid, declaration files with legacy syntax also failing, broad options, never, and unknown. Official basis: TypeScript 7.0 hard-removal list and TypeScript 6 migration notes; checked with native TypeScript 7.0.2.
+
+### k-228: Diagnostic, JS/JSDoc, and Emit Differences
+
+- **Objective:** Recognize intentional TypeScript 7 differences in Unicode template inference and JavaScript/JSDoc analysis without mistaking textual diagnostic or declaration changes for semantic regressions.
+- **Prerequisites:** Template literal inference, UTF-16 code units versus Unicode code points, astral characters, string iteration, JSDoc typedef/enum/class/function syntax, `typeof`, declaration ordering, and semantic comparison.
+- **Drill dimensions:** Real HeadTail inference over emoji and ASCII, migration-action unions, code-point runtime extraction, six difference scenarios, rule correlation, function reflection, scenario extraction, and assignability.
+- **Edge cases:** Type-level string-length utilities changing for astral symbols, ordinary JavaScript indexing still using UTF-16 code units, values needing typeof in type positions, Closure-style syntax removal, real class/typedef requirements, wording/location snapshots being brittle, intentional non-ASCII fixtures, never/unknown, and broad strings. Official basis: TypeScript 7.0 Unicode and JavaScript differences; verified specifically with native 7.0.2.
+
+### k-229: Native Parity and Performance Capstone
+
+- **Objective:** Finish migration with independent evidence for semantic parity and measured performance on fixed inputs, while documenting remaining TypeScript 6 tooling dependencies.
+- **Prerequisites:** Every Phase 11/12 lesson, source/config/dependency pinning, stable TypeScript 6 baseline, native TypeScript 7, diagnostics, declaration equivalence, runtime tests, wall time, peak memory, repeated benchmarks, and tooling gaps.
+- **Drill dimensions:** Measurement and parity records, speedup calculations, readiness conjunctions, six migration-gate scenarios, rule extraction, function reflection, scenario inventories, and structural comparisons.
+- **Edge cases:** Speed not proving correctness, one run not establishing performance, memory and elapsed time trading off, textual output differences needing classification, worker counts and machine context affecting results, TypeScript 6 retention being capability-specific, future API adoption being separate, never/unknown, and division assumptions. Official basis: TypeScript 7.0 production, performance, compatibility, and road-forward guidance; repository gates record local TypeScript 6/7 measurements.

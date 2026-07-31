@@ -198,110 +198,110 @@
 - [x] 11.7 Author and verify `k-144-invariance`
 - [x] 11.8 Author and verify `k-145-variance-annotations`
 - [x] 11.9 Author and verify `k-146-bivariance-methods-and-properties`
-- [ ] 11.10 Author and verify `k-147-deliberate-soundness-holes`
-- [ ] 11.11 Author and verify `k-148-accumulating-builders`
-- [ ] 11.12 Author and verify `k-149-polymorphic-this-and-f-bounds`
-- [ ] 11.13 Author and verify `k-150-typestate`
-- [ ] 11.14 Author and verify `k-151-typed-transition-tables`
-- [ ] 11.15 Author and verify `k-152-type-safe-event-emitters`
-- [ ] 11.16 Author and verify `k-153-event-map-transformations`
-- [ ] 11.17 Author and verify `k-154-fluent-mini-dsls`
-- [ ] 11.18 Author and verify `k-155-xor-and-exactly-one-types`
-- [ ] 11.19 Author and verify `k-156-exact-object-and-at-least-one-types`
-- [ ] 11.20 Author and verify `k-157-correlated-unions`
-- [ ] 11.21 Author and verify `k-158-higher-kinded-type-emulation`
-- [ ] 11.22 Author and verify `k-159-extensible-registry-capstone`
-- [ ] 11.23 Run and record the Phase 9 quality gate
+- [x] 11.10 Author and verify `k-147-deliberate-soundness-holes`
+- [x] 11.11 Author and verify `k-148-accumulating-builders`
+- [x] 11.12 Author and verify `k-149-polymorphic-this-and-f-bounds`
+- [x] 11.13 Author and verify `k-150-typestate`
+- [x] 11.14 Author and verify `k-151-typed-transition-tables`
+- [x] 11.15 Author and verify `k-152-type-safe-event-emitters`
+- [x] 11.16 Author and verify `k-153-event-map-transformations`
+- [x] 11.17 Author and verify `k-154-fluent-mini-dsls`
+- [x] 11.18 Author and verify `k-155-xor-and-exactly-one-types`
+- [x] 11.19 Author and verify `k-156-exact-object-and-at-least-one-types`
+- [x] 11.20 Author and verify `k-157-correlated-unions`
+- [x] 11.21 Author and verify `k-158-higher-kinded-type-emulation`
+- [x] 11.22 Author and verify `k-159-extensible-registry-capstone`
+- [x] 11.23 Run and record the Phase 9 quality gate
 
 ## 12. Phase 10 - TypeScript 5.x Feature Laboratories
 
-- [ ] 12.1 Author and verify `k-160-decorator-mental-model`
-- [ ] 12.2 Author and verify `k-161-class-decorators`
-- [ ] 12.3 Author and verify `k-162-method-decorators`
-- [ ] 12.4 Author and verify `k-163-field-decorators`
-- [ ] 12.5 Author and verify `k-164-accessor-and-auto-accessor-decorators`
-- [ ] 12.6 Author and verify `k-165-decorator-factories-and-composition`
-- [ ] 12.7 Author and verify `k-166-well-typed-generic-decorators`
-- [ ] 12.8 Author and verify `k-167-decorator-initializers`
-- [ ] 12.9 Author and verify `k-168-decorator-metadata`
-- [ ] 12.10 Author and verify `k-169-synchronous-resource-management`
-- [ ] 12.11 Author and verify `k-170-asynchronous-resource-management`
-- [ ] 12.12 Author and verify `k-171-disposal-stacks-and-suppressed-errors`
-- [ ] 12.13 Author and verify `k-172-unrelated-getter-setter-types`
-- [ ] 12.14 Author and verify `k-173-easier-undefined-returns`
-- [ ] 12.15 Author and verify `k-174-jsx-elementtype-and-namespaced-attributes`
-- [ ] 12.16 Author and verify `k-175-tuple-label-relaxation`
-- [ ] 12.17 Author and verify `k-176-methods-on-array-unions`
-- [ ] 12.18 Author and verify `k-177-copying-array-methods`
-- [ ] 12.19 Author and verify `k-178-symbols-as-weak-collection-keys`
-- [ ] 12.20 Author and verify `k-179-import-attributes`
-- [ ] 12.21 Author and verify `k-180-resolution-mode`
-- [ ] 12.22 Author and verify `k-181-switch-true-narrowing`
-- [ ] 12.23 Author and verify `k-182-boolean-comparison-narrowing`
-- [ ] 12.24 Author and verify `k-183-symbol-hasinstance-narrowing`
-- [ ] 12.25 Author and verify `k-184-object-and-map-groupby`
-- [ ] 12.26 Author and verify `k-185-preserved-closure-narrowing`
-- [ ] 12.27 Author and verify `k-186-noinfer-release-lab`
-- [ ] 12.28 Author and verify `k-187-inferred-predicate-release-lab`
-- [ ] 12.29 Author and verify `k-188-constant-indexed-control-flow-analysis`
-- [ ] 12.30 Author and verify `k-189-isolated-declarations`
-- [ ] 12.31 Author and verify `k-190-configdir`
-- [ ] 12.32 Author and verify `k-191-regexp-syntax-checking`
-- [ ] 12.33 Author and verify `k-192-jsdoc-import`
-- [ ] 12.34 Author and verify `k-193-iterator-helpers`
-- [ ] 12.35 Author and verify `k-194-strict-builtin-iterator-return`
-- [ ] 12.36 Author and verify `k-195-unchecked-side-effect-imports`
-- [ ] 12.37 Author and verify `k-196-arbitrary-module-identifiers`
-- [ ] 12.38 Author and verify `k-197-syntactic-truthy-nullish-checks`
-- [ ] 12.39 Author and verify `k-198-no-check-and-build-through-errors`
-- [ ] 12.40 Author and verify `k-199-never-initialized-variables`
-- [ ] 12.41 Author and verify `k-200-relative-extension-rewriting`
-- [ ] 12.42 Author and verify `k-201-generic-typed-arrays`
-- [ ] 12.43 Author and verify `k-202-nodenext-json-imports`
-- [ ] 12.44 Author and verify `k-203-granular-return-expression-checks`
-- [ ] 12.45 Author and verify `k-204-require-esm-from-commonjs`
-- [ ] 12.46 Author and verify `k-205-erasable-syntax-only`
-- [ ] 12.47 Author and verify `k-206-lib-replacement`
-- [ ] 12.48 Author and verify `k-207-import-defer`
-- [ ] 12.49 Author and verify `k-208-node20-and-modern-module-config`
-- [ ] 12.50 Run and record the Phase 10 quality gate
+- [x] 12.1 Author and verify `k-160-decorator-mental-model`
+- [x] 12.2 Author and verify `k-161-class-decorators`
+- [x] 12.3 Author and verify `k-162-method-decorators`
+- [x] 12.4 Author and verify `k-163-field-decorators`
+- [x] 12.5 Author and verify `k-164-accessor-and-auto-accessor-decorators`
+- [x] 12.6 Author and verify `k-165-decorator-factories-and-composition`
+- [x] 12.7 Author and verify `k-166-well-typed-generic-decorators`
+- [x] 12.8 Author and verify `k-167-decorator-initializers`
+- [x] 12.9 Author and verify `k-168-decorator-metadata`
+- [x] 12.10 Author and verify `k-169-synchronous-resource-management`
+- [x] 12.11 Author and verify `k-170-asynchronous-resource-management`
+- [x] 12.12 Author and verify `k-171-disposal-stacks-and-suppressed-errors`
+- [x] 12.13 Author and verify `k-172-unrelated-getter-setter-types`
+- [x] 12.14 Author and verify `k-173-easier-undefined-returns`
+- [x] 12.15 Author and verify `k-174-jsx-elementtype-and-namespaced-attributes`
+- [x] 12.16 Author and verify `k-175-tuple-label-relaxation`
+- [x] 12.17 Author and verify `k-176-methods-on-array-unions`
+- [x] 12.18 Author and verify `k-177-copying-array-methods`
+- [x] 12.19 Author and verify `k-178-symbols-as-weak-collection-keys`
+- [x] 12.20 Author and verify `k-179-import-attributes`
+- [x] 12.21 Author and verify `k-180-resolution-mode`
+- [x] 12.22 Author and verify `k-181-switch-true-narrowing`
+- [x] 12.23 Author and verify `k-182-boolean-comparison-narrowing`
+- [x] 12.24 Author and verify `k-183-symbol-hasinstance-narrowing`
+- [x] 12.25 Author and verify `k-184-object-and-map-groupby`
+- [x] 12.26 Author and verify `k-185-preserved-closure-narrowing`
+- [x] 12.27 Author and verify `k-186-noinfer-release-lab`
+- [x] 12.28 Author and verify `k-187-inferred-predicate-release-lab`
+- [x] 12.29 Author and verify `k-188-constant-indexed-control-flow-analysis`
+- [x] 12.30 Author and verify `k-189-isolated-declarations`
+- [x] 12.31 Author and verify `k-190-configdir`
+- [x] 12.32 Author and verify `k-191-regexp-syntax-checking`
+- [x] 12.33 Author and verify `k-192-jsdoc-import`
+- [x] 12.34 Author and verify `k-193-iterator-helpers`
+- [x] 12.35 Author and verify `k-194-strict-builtin-iterator-return`
+- [x] 12.36 Author and verify `k-195-unchecked-side-effect-imports`
+- [x] 12.37 Author and verify `k-196-arbitrary-module-identifiers`
+- [x] 12.38 Author and verify `k-197-syntactic-truthy-nullish-checks`
+- [x] 12.39 Author and verify `k-198-no-check-and-build-through-errors`
+- [x] 12.40 Author and verify `k-199-never-initialized-variables`
+- [x] 12.41 Author and verify `k-200-relative-extension-rewriting`
+- [x] 12.42 Author and verify `k-201-generic-typed-arrays`
+- [x] 12.43 Author and verify `k-202-nodenext-json-imports`
+- [x] 12.44 Author and verify `k-203-granular-return-expression-checks`
+- [x] 12.45 Author and verify `k-204-require-esm-from-commonjs`
+- [x] 12.46 Author and verify `k-205-erasable-syntax-only`
+- [x] 12.47 Author and verify `k-206-lib-replacement`
+- [x] 12.48 Author and verify `k-207-import-defer`
+- [x] 12.49 Author and verify `k-208-node20-and-modern-module-config`
+- [x] 12.50 Run and record the Phase 10 quality gate
 
 ## 13. Phase 11 - TypeScript 6 Transition
 
-- [ ] 13.1 Author and verify `k-209-strict-family-unpacked`
-- [ ] 13.2 Author and verify `k-210-strict-adjacent-hardening-flags`
-- [ ] 13.3 Author and verify `k-211-modern-compiler-defaults`
-- [ ] 13.4 Author and verify `k-212-thisless-function-context-sensitivity`
-- [ ] 13.5 Author and verify `k-213-stable-type-ordering`
-- [ ] 13.6 Author and verify `k-214-es2025-lib-and-regexp-escape`
-- [ ] 13.7 Author and verify `k-215-temporal-api-types`
-- [ ] 13.8 Author and verify `k-216-map-upsert-methods`
-- [ ] 13.9 Author and verify `k-217-set-iterator-promise-es2025-apis`
-- [ ] 13.10 Author and verify `k-218-dom-iterable-consolidation`
-- [ ] 13.11 Author and verify `k-219-module-resolution-tightening`
-- [ ] 13.12 Author and verify `k-220-typescript-6-migration-capstone`
-- [ ] 13.13 Run and record the Phase 11 quality gate with TypeScript 6 and 7 comparison fixtures
+- [x] 13.1 Author and verify `k-209-strict-family-unpacked`
+- [x] 13.2 Author and verify `k-210-strict-adjacent-hardening-flags`
+- [x] 13.3 Author and verify `k-211-modern-compiler-defaults`
+- [x] 13.4 Author and verify `k-212-thisless-function-context-sensitivity`
+- [x] 13.5 Author and verify `k-213-stable-type-ordering`
+- [x] 13.6 Author and verify `k-214-es2025-lib-and-regexp-escape`
+- [x] 13.7 Author and verify `k-215-temporal-api-types`
+- [x] 13.8 Author and verify `k-216-map-upsert-methods`
+- [x] 13.9 Author and verify `k-217-set-iterator-promise-es2025-apis`
+- [x] 13.10 Author and verify `k-218-dom-iterable-consolidation`
+- [x] 13.11 Author and verify `k-219-module-resolution-tightening`
+- [x] 13.12 Author and verify `k-220-typescript-6-migration-capstone`
+- [x] 13.13 Run and record the Phase 11 quality gate with TypeScript 6 and 7 comparison fixtures
 
 ## 14. Phase 12 - TypeScript 7 Native Epilogue
 
-- [ ] 14.1 Author and verify `k-221-native-compiler-architecture`
-- [ ] 14.2 Author and verify `k-222-typescript-6-7-compatibility-contract`
-- [ ] 14.3 Author and verify `k-223-checker-builder-parallelism`
-- [ ] 14.4 Author and verify `k-224-native-watch-mode`
-- [ ] 14.5 Author and verify `k-225-lsp-and-editor-architecture`
-- [ ] 14.6 Author and verify `k-226-compiler-api-and-side-by-side-use`
-- [ ] 14.7 Author and verify `k-227-configuration-hard-removals`
-- [ ] 14.8 Author and verify `k-228-diagnostic-js-jsdoc-emit-differences`
-- [ ] 14.9 Author and verify `k-229-native-parity-and-performance-capstone`
-- [ ] 14.10 Run and record the Phase 12 quality gate
+- [x] 14.1 Author and verify `k-221-native-compiler-architecture`
+- [x] 14.2 Author and verify `k-222-typescript-6-7-compatibility-contract`
+- [x] 14.3 Author and verify `k-223-checker-builder-parallelism`
+- [x] 14.4 Author and verify `k-224-native-watch-mode`
+- [x] 14.5 Author and verify `k-225-lsp-and-editor-architecture`
+- [x] 14.6 Author and verify `k-226-compiler-api-and-side-by-side-use`
+- [x] 14.7 Author and verify `k-227-configuration-hard-removals`
+- [x] 14.8 Author and verify `k-228-diagnostic-js-jsdoc-emit-differences`
+- [x] 14.9 Author and verify `k-229-native-parity-and-performance-capstone`
+- [x] 14.10 Run and record the Phase 12 quality gate
 
 ## 15. Final Repository Validation
 
-- [ ] 15.1 Validate that all 229 syllabus entries and all four companion files per packet agree
-- [ ] 15.2 Run the complete Vitest suite and fix any runtime regression
-- [ ] 15.3 Run the complete author diagnostic inventory and fix every unintended TypeScript error
-- [ ] 15.4 Verify a representative solved packet from every phase becomes type-clean without changing runtime tests
-- [ ] 15.5 Measure and document full native TypeScript 7 typecheck and Vitest durations
-- [ ] 15.6 Audit versioned lessons against cited official TypeScript primary sources
-- [ ] 15.7 Review narrative ordering, cross-lesson prerequisites, drill variety, and edge-case coverage for gaps or filler
-- [ ] 15.8 Complete the final `SYLLABUS.md` index and repository usage documentation
+- [x] 15.1 Validate that all 229 syllabus entries and all four companion files per packet agree
+- [x] 15.2 Run the complete Vitest suite and fix any runtime regression
+- [x] 15.3 Run the complete author diagnostic inventory and fix every unintended TypeScript error
+- [x] 15.4 Verify a representative solved packet from every phase becomes type-clean without changing runtime tests
+- [x] 15.5 Measure and document full native TypeScript 7 typecheck and Vitest durations
+- [x] 15.6 Audit versioned lessons against cited official TypeScript primary sources
+- [x] 15.7 Review narrative ordering, cross-lesson prerequisites, drill variety, and edge-case coverage for gaps or filler
+- [x] 15.8 Complete the final `SYLLABUS.md` index and repository usage documentation

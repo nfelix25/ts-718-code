@@ -15,7 +15,8 @@
     "typecheck": "tsc --noEmit",
     "typecheck:koan": "node --import tsx scripts/typecheck-koan.ts",
     "validate:syllabus": "node --import tsx scripts/validate-syllabus.ts",
-    "verify:koan": "node --import tsx scripts/verify-koan.ts"
+    "verify:koan": "node --import tsx scripts/verify-koan.ts",
+    "verify:solved-samples": "node --import tsx scripts/verify-solved-samples.ts"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",

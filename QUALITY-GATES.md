@@ -200,3 +200,145 @@ The root compiler remains intentionally nonzero because learner assertions are
 unsolved. Phase 8 focused verification found no syntax, implementation, fixture,
 missing-marker, or unexpected diagnostics across rebuilt utilities, function
 transforms, tuple arithmetic, string and union algorithms, and the interpreter capstone.
+
+## Phase 9 - Advanced API Patterns
+
+Recorded: 2026-07-28
+
+Environment:
+
+- Node.js: `v24.11.1`
+- pnpm: `10.19.0`
+- TypeScript: `7.0.2`
+
+Results:
+
+| Gate | Command | Result |
+| --- | --- | --- |
+| Runtime | `pnpm test` | Passed: 160 files, 803 tests, 3.96 s Vitest duration |
+| Structure | `pnpm validate:syllabus` | Passed: 229 continuous entries, 159 authored packets |
+| Progress structure | `pnpm progress` | Passed: 159 unsolved, 0 incomplete, 70 planned |
+| Diagnostic inventory | `pnpm verify:koan -- k-NNN` for `k-138` through `k-159` | Passed: all 22 packets; 2,420 learner holes matched 2,420 intended diagnostics |
+| Native performance | `pnpm exec tsc --noEmit --pretty false --extendedDiagnostics` | Measured expected-failing unsolved corpus; 946 files, 1,172,628 instantiations, 715,869 KiB, 1.585 s check, 2.180 s total |
+
+The root compiler remains intentionally nonzero because learner assertions are
+unsolved. Phase 9 focused verification found no syntax, implementation, fixture,
+missing-marker, or unexpected diagnostics across nominal identity, the variance
+sequence, deliberate soundness boundaries, fluent and typestate APIs, correlated
+event/command maps, object cardinality utilities, HKT emulation, and the registry
+capstone.
+
+## Phase 10 - TypeScript 5.x Features
+
+Recorded: 2026-07-28
+
+Environment:
+
+- Node.js: `v24.11.1`
+- pnpm: `10.19.0`
+- TypeScript: `7.0.2`
+
+Results:
+
+| Gate | Command | Result |
+| --- | --- | --- |
+| Runtime | `pnpm test` | Passed: 209 files, 1,048 tests, 7.74 s Vitest duration |
+| Structure | `pnpm validate:syllabus` | Passed: 229 continuous entries, 208 authored packets |
+| Progress structure | `pnpm progress` | Passed: 208 unsolved, 0 incomplete, 21 planned |
+| Diagnostic inventory | `pnpm verify:koan -- k-NNN` for `k-160` through `k-208` | Passed: all 49 packets; 5,390 learner holes matched 5,390 intended diagnostics |
+| Native performance | `pnpm exec tsc --noEmit --pretty false --extendedDiagnostics` | Measured expected-failing unsolved corpus; 1,144 files, 1,283,523 instantiations, 798,664 KiB, 2.101 s check, 2.544 s total |
+
+The root compiler remains intentionally nonzero because learner assertions are
+unsolved. Phase 10 focused verification found no syntax, implementation, fixture,
+missing-marker, or unexpected diagnostics across decorators, resource management,
+TypeScript 5.1 through 5.9 language changes, library declarations, module behavior,
+control-flow analysis, migration flags, and modern Node configuration.
+
+## Phase 11 - TypeScript 6 Transition
+
+Recorded: 2026-07-28
+
+Environment:
+
+- Node.js: `v24.11.1`
+- pnpm: `10.19.0`
+- TypeScript 6: `6.0.3`
+- TypeScript 7: `7.0.2`
+
+Results:
+
+| Gate | Command | Result |
+| --- | --- | --- |
+| Runtime | `pnpm test` | Passed: 221 files, 1,108 tests, 9.26 s Vitest duration |
+| Structure | `pnpm validate:syllabus` | Passed: 229 continuous entries, 220 authored packets |
+| Progress structure | `pnpm progress` | Passed: 220 unsolved, 0 incomplete, 9 planned |
+| Diagnostic inventory | `pnpm verify:koan -- k-NNN` for `k-209` through `k-220` | Passed: all 12 packets; 1,320 learner holes matched 1,320 intended diagnostics |
+| TS6/TS7 fixture | `tsc6`, `tsc6 --stableTypeOrdering`, and native `tsc` against `fixtures/typescript-6-7/tsconfig.json` | Passed under all three invocations with no diagnostics |
+| Native performance | `pnpm exec tsc --noEmit --pretty false --extendedDiagnostics` | Measured expected-failing unsolved corpus; 1,192 files, 1,311,218 instantiations, 813,720 KiB, 2.819 s check, 3.336 s total |
+| TypeScript 6 comparison | `tsc6 --noEmit --pretty false --extendedDiagnostics` | Measured the same expected-failing corpus; 1,171,912 instantiations, 1,005,704 KiB, 9.35 s check, 11.35 s total |
+
+The root compilers remain intentionally nonzero because learner assertions are
+unsolved. Phase 11 focused verification and the solved comparison fixture found no
+syntax, implementation, fixture, missing-marker, or unexpected diagnostics across
+strict defaults, inference ordering, ES2025 and ESNext declarations, DOM iterable
+consolidation, module migration, and the TypeScript 6-to-7 compatibility workflow.
+
+## Phase 12 - TypeScript 7 Native Epilogue
+
+Recorded: 2026-07-28
+
+Environment:
+
+- Node.js: `v24.11.1`
+- pnpm: `10.19.0`
+- TypeScript 7: `7.0.2`
+
+Results:
+
+| Gate | Command | Result |
+| --- | --- | --- |
+| Runtime | `pnpm test` | Passed: 230 files, 1,153 tests, 9.99 s Vitest duration |
+| Structure | `pnpm validate:syllabus` | Passed: 229 continuous entries, 229 authored packets |
+| Progress structure | `pnpm progress` | Passed: 229 unsolved, 0 incomplete, 0 planned |
+| Diagnostic inventory | `pnpm verify:koan -- k-NNN` for `k-221` through `k-229` | Passed: all 9 packets; 990 learner holes matched 990 intended diagnostics |
+| Native performance | `pnpm exec tsc --noEmit --pretty false --extendedDiagnostics` | Measured expected-failing corpus; 1,228 files, 1,332,736 instantiations, 824,907 KiB, 2.890 s check, 3.410 s total |
+| Single-threaded comparison | `pnpm exec tsc --noEmit --pretty false --extendedDiagnostics --singleThreaded` | Same corpus; 1,192,426 instantiations, 743,354 KiB, 4.203 s check, 5.160 s total |
+
+The root compiler remains intentionally nonzero because learner assertions are
+unsolved. Phase 12 focused verification found no syntax, implementation, fixture,
+missing-marker, or unexpected diagnostics across native architecture, compatibility,
+parallel controls, watch/LSP behavior, API bridging, configuration removals,
+Unicode/JSDoc differences, and the parity/performance capstone.
+
+## Final Repository Validation
+
+Recorded: 2026-07-28
+
+Environment:
+
+- Node.js: `v24.11.1`
+- pnpm: `10.19.0`
+- TypeScript 6: `6.0.3`
+- TypeScript 7: `7.0.2`
+- Vitest: `4.1.10`
+
+Results:
+
+| Gate | Command or audit | Result |
+| --- | --- | --- |
+| Packet structure | `pnpm validate:syllabus` | Passed: 229 continuous syllabus entries and 229 complete four-file packets |
+| Runtime | `pnpm test` | Passed: 230 files, 1,153 tests, 9.79 s Vitest duration |
+| Progress | `pnpm progress` | Passed: 229 unsolved, 0 incomplete, 0 planned |
+| Complete author inventory | `pnpm verify:koan -- k-NNN` for every `k-001` through `k-229` | Passed: all 229 packets; 25,373 learner holes matched 25,373 intended diagnostics |
+| Aggregate diagnostic count | `pnpm exec tsc --noEmit --pretty false` with diagnostic counting | Expected nonzero compile produced exactly 25,373 diagnostics |
+| Solved representatives | `pnpm verify:solved-samples` | Passed: one capstone packet from each of 12 phases, 1,320 mechanically solved assertions, no remaining diagnostics |
+| Native performance | `pnpm exec tsc --noEmit --pretty false --extendedDiagnostics` | Expected-failing corpus; 1,229 files, 1,332,823 instantiations, 824,980 KiB, 2.818 s check, 3.348 s total |
+| TS6/TS7 compatibility | Both compilers plus the TS6 stable-ordering probe against `fixtures/typescript-6-7/tsconfig.json` | Passed with no diagnostics |
+| Version-source audit | Primary lesson headers `k-160` through `k-229` | Passed: all 70 versioned lessons cite an official TypeScript primary source; runtime/proposal references are supplementary |
+| Curriculum-content audit | Four-file inventory, syllabus digest fields, narrative ordering, drill/edge duplicate review, and phase prerequisite review | Passed: 229 main/drill/edge/test files, 229 complete lesson digests, no gaps; repeated narrowing expressions occur in distinct flow scopes, and literal duplicates found during review were replaced |
+| Usage documentation | `README.md`, `SYLLABUS.md`, and this gate record | Complete: learner loop, expected-failure contract, packet tiers, command reference, compiler fixtures, all lesson metadata, and measured gates are documented |
+
+The repository-wide `pnpm typecheck` failure is the intended initial learner
+state. The complete focused inventory and solved representative audit demonstrate
+that those failures are confined to declared koan holes and disappear when the
+exercise expectations are supplied.
