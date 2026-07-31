@@ -154,15 +154,15 @@
 - [x] 9.9 Classify and complete `k-126-constructor-utility-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 9.10 Classify and complete `k-127-rebuild-awaited`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 9.11 Classify and complete `k-128-this-utility-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.12 Classify and complete `k-129-compose-and-pipe-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.13 Classify and complete `k-130-curry-and-partial-application`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.14 Classify and complete `k-131-type-level-boolean-logic`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.15 Classify and complete `k-132-type-level-equality-and-comparison`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.16 Classify and complete `k-133-tuple-arithmetic-addition`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.17 Classify and complete `k-134-subtraction-comparison-and-ranges`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.18 Classify and complete `k-135-type-level-string-toolbelt`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.19 Classify and complete `k-136-union-algorithms`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 9.20 Classify and complete `k-137-type-level-interpreter-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.12 Classify and complete `k-129-compose-and-pipe-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.13 Classify and complete `k-130-curry-and-partial-application`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.14 Classify and complete `k-131-type-level-boolean-logic`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.15 Classify and complete `k-132-type-level-equality-and-comparison`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.16 Classify and complete `k-133-tuple-arithmetic-addition`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.17 Classify and complete `k-134-subtraction-comparison-and-ranges`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.18 Classify and complete `k-135-type-level-string-toolbelt`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.19 Classify and complete `k-136-union-algorithms`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 9.20 Classify and complete `k-137-type-level-interpreter-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 
 ## 10. Phase 9 - Advanced API Type Patterns
 
