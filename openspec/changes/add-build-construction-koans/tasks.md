@@ -128,18 +128,18 @@
 
 - [x] 8.1 Classify and complete `k-104-recursive-type-aliases`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 8.2 Classify and complete `k-105-recursive-json-values`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.3 Classify and complete `k-106-recursive-trees`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.4 Classify and complete `k-107-recursion-base-cases-and-leaves`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.5 Classify and complete `k-108-deep-partial`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.6 Classify and complete `k-109-deep-readonly`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.7 Classify and complete `k-110-deep-required`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.8 Classify and complete `k-111-deep-mutable`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.9 Classify and complete `k-112-collection-aware-recursion`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.10 Classify and complete `k-113-dot-notation-paths`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.11 Classify and complete `k-114-value-by-path`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.12 Classify and complete `k-115-recursion-over-unions`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.13 Classify and complete `k-116-cyclic-types-and-visited-guards`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 8.14 Classify and complete `k-117-depth-limits-and-path-lens-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.3 Classify and complete `k-106-recursive-trees`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.4 Classify and complete `k-107-recursion-base-cases-and-leaves`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.5 Classify and complete `k-108-deep-partial`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.6 Classify and complete `k-109-deep-readonly`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.7 Classify and complete `k-110-deep-required`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.8 Classify and complete `k-111-deep-mutable`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.9 Classify and complete `k-112-collection-aware-recursion`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.10 Classify and complete `k-113-dot-notation-paths`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.11 Classify and complete `k-114-value-by-path`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.12 Classify and complete `k-115-recursion-over-unions`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.13 Classify and complete `k-116-cyclic-types-and-visited-guards`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 8.14 Classify and complete `k-117-depth-limits-and-path-lens-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 
 ## 9. Phase 8 - Type-Level Programming
 
