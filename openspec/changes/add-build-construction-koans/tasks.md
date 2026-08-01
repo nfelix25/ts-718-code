@@ -228,13 +228,13 @@
 - [x] 11.35 Classify and complete `k-194-strict-builtin-iterator-return`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.36 Classify and complete `k-195-unchecked-side-effect-imports`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.37 Classify and complete `k-196-arbitrary-module-identifiers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.38 Classify and complete `k-197-syntactic-truthy-nullish-checks`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.39 Classify and complete `k-198-no-check-and-build-through-errors`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.40 Classify and complete `k-199-never-initialized-variables`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.41 Classify and complete `k-200-relative-extension-rewriting`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.42 Classify and complete `k-201-generic-typed-arrays`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.43 Classify and complete `k-202-nodenext-json-imports`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.44 Classify and complete `k-203-granular-return-expression-checks`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.38 Classify and complete `k-197-syntactic-truthy-nullish-checks`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.39 Classify and complete `k-198-no-check-and-build-through-errors`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.40 Classify and complete `k-199-never-initialized-variables`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.41 Classify and complete `k-200-relative-extension-rewriting`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.42 Classify and complete `k-201-generic-typed-arrays`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.43 Classify and complete `k-202-nodenext-json-imports`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.44 Classify and complete `k-203-granular-return-expression-checks`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.45 Classify and complete `k-204-require-esm-from-commonjs`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.46 Classify and complete `k-205-erasable-syntax-only`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.47 Classify and complete `k-206-lib-replacement`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
