@@ -243,9 +243,9 @@
 
 ## 12. Phase 11 - TypeScript 6 Transition
 
-- [ ] 12.1 Classify and complete `k-209-strict-family-unpacked`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.2 Classify and complete `k-210-strict-adjacent-hardening-flags`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.3 Classify and complete `k-211-modern-compiler-defaults`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.1 Classify and complete `k-209-strict-family-unpacked`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.2 Classify and complete `k-210-strict-adjacent-hardening-flags`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.3 Classify and complete `k-211-modern-compiler-defaults`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 12.4 Classify and complete `k-212-thisless-function-context-sensitivity`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 12.5 Classify and complete `k-213-stable-type-ordering`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 12.6 Classify and complete `k-214-es2025-lib-and-regexp-escape`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
