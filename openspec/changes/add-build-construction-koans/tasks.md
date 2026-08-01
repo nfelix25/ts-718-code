@@ -200,9 +200,9 @@
 - [x] 11.7 Classify and complete `k-166-well-typed-generic-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.8 Classify and complete `k-167-decorator-initializers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.9 Classify and complete `k-168-decorator-metadata`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.10 Classify and complete `k-169-synchronous-resource-management`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.11 Classify and complete `k-170-asynchronous-resource-management`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.12 Classify and complete `k-171-disposal-stacks-and-suppressed-errors`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.10 Classify and complete `k-169-synchronous-resource-management`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.11 Classify and complete `k-170-asynchronous-resource-management`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.12 Classify and complete `k-171-disposal-stacks-and-suppressed-errors`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.13 Classify and complete `k-172-unrelated-getter-setter-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.14 Classify and complete `k-173-easier-undefined-returns`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.15 Classify and complete `k-174-jsx-elementtype-and-namespaced-attributes`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
