@@ -258,9 +258,9 @@
 
 ## 13. Phase 12 - TypeScript 7 Native Transition
 
-- [ ] 13.1 Classify and complete `k-221-native-compiler-architecture`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 13.2 Classify and complete `k-222-typescript-6-7-compatibility-contract`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 13.3 Classify and complete `k-223-checker-builder-parallelism`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 13.1 Classify and complete `k-221-native-compiler-architecture`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 13.2 Classify and complete `k-222-typescript-6-7-compatibility-contract`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 13.3 Classify and complete `k-223-checker-builder-parallelism`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 13.4 Classify and complete `k-224-native-watch-mode`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 13.5 Classify and complete `k-225-lsp-and-editor-architecture`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 13.6 Classify and complete `k-226-compiler-api-and-side-by-side-use`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
