@@ -249,12 +249,12 @@
 - [x] 12.4 Classify and complete `k-212-thisless-function-context-sensitivity`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 12.5 Classify and complete `k-213-stable-type-ordering`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 12.6 Classify and complete `k-214-es2025-lib-and-regexp-escape`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.7 Classify and complete `k-215-temporal-api-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.8 Classify and complete `k-216-map-upsert-methods`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.9 Classify and complete `k-217-set-iterator-promise-es2025-apis`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.10 Classify and complete `k-218-dom-iterable-consolidation`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.11 Classify and complete `k-219-module-resolution-tightening`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.12 Classify and complete `k-220-typescript-6-migration-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.7 Classify and complete `k-215-temporal-api-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.8 Classify and complete `k-216-map-upsert-methods`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.9 Classify and complete `k-217-set-iterator-promise-es2025-apis`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.10 Classify and complete `k-218-dom-iterable-consolidation`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.11 Classify and complete `k-219-module-resolution-tightening`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.12 Classify and complete `k-220-typescript-6-migration-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 
 ## 13. Phase 12 - TypeScript 7 Native Transition
 
