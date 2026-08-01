@@ -222,12 +222,12 @@
 - [x] 11.29 Classify and complete `k-188-constant-indexed-control-flow-analysis`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.30 Classify and complete `k-189-isolated-declarations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.31 Classify and complete `k-190-configdir`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.32 Classify and complete `k-191-regexp-syntax-checking`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.33 Classify and complete `k-192-jsdoc-import`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.34 Classify and complete `k-193-iterator-helpers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.35 Classify and complete `k-194-strict-builtin-iterator-return`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.36 Classify and complete `k-195-unchecked-side-effect-imports`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.37 Classify and complete `k-196-arbitrary-module-identifiers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.32 Classify and complete `k-191-regexp-syntax-checking`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.33 Classify and complete `k-192-jsdoc-import`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.34 Classify and complete `k-193-iterator-helpers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.35 Classify and complete `k-194-strict-builtin-iterator-return`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.36 Classify and complete `k-195-unchecked-side-effect-imports`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.37 Classify and complete `k-196-arbitrary-module-identifiers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.38 Classify and complete `k-197-syntactic-truthy-nullish-checks`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.39 Classify and complete `k-198-no-check-and-build-through-errors`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.40 Classify and complete `k-199-never-initialized-variables`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
