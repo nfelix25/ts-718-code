@@ -205,8 +205,8 @@
 - [x] 11.12 Classify and complete `k-171-disposal-stacks-and-suppressed-errors`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.13 Classify and complete `k-172-unrelated-getter-setter-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.14 Classify and complete `k-173-easier-undefined-returns`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.15 Classify and complete `k-174-jsx-elementtype-and-namespaced-attributes`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.16 Classify and complete `k-175-tuple-label-relaxation`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.15 Classify and complete `k-174-jsx-elementtype-and-namespaced-attributes`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.16 Classify and complete `k-175-tuple-label-relaxation`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.17 Classify and complete `k-176-methods-on-array-unions`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.18 Classify and complete `k-177-copying-array-methods`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.19 Classify and complete `k-178-symbols-as-weak-collection-keys`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
