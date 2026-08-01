@@ -166,28 +166,28 @@
 
 ## 10. Phase 9 - Advanced API Type Patterns
 
-- [ ] 10.1 Classify and complete `k-138-branded-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.2 Classify and complete `k-139-opaque-module-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.3 Classify and complete `k-140-phantom-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.4 Classify and complete `k-141-unique-symbol-identity`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.5 Classify and complete `k-142-covariance`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.6 Classify and complete `k-143-contravariance`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.7 Classify and complete `k-144-invariance`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.8 Classify and complete `k-145-variance-annotations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.9 Classify and complete `k-146-bivariance-methods-and-properties`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.10 Classify and complete `k-147-deliberate-soundness-holes`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.11 Classify and complete `k-148-accumulating-builders`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.12 Classify and complete `k-149-polymorphic-this-and-f-bounds`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.13 Classify and complete `k-150-typestate`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.14 Classify and complete `k-151-typed-transition-tables`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.15 Classify and complete `k-152-type-safe-event-emitters`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.16 Classify and complete `k-153-event-map-transformations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.17 Classify and complete `k-154-fluent-mini-dsls`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.18 Classify and complete `k-155-xor-and-exactly-one-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.19 Classify and complete `k-156-exact-object-and-at-least-one-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.20 Classify and complete `k-157-correlated-unions`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.21 Classify and complete `k-158-higher-kinded-type-emulation`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 10.22 Classify and complete `k-159-extensible-registry-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.1 Classify and complete `k-138-branded-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.2 Classify and complete `k-139-opaque-module-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.3 Classify and complete `k-140-phantom-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.4 Classify and complete `k-141-unique-symbol-identity`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.5 Classify and complete `k-142-covariance`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.6 Classify and complete `k-143-contravariance`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.7 Classify and complete `k-144-invariance`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.8 Classify and complete `k-145-variance-annotations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.9 Classify and complete `k-146-bivariance-methods-and-properties`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.10 Classify and complete `k-147-deliberate-soundness-holes`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.11 Classify and complete `k-148-accumulating-builders`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.12 Classify and complete `k-149-polymorphic-this-and-f-bounds`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.13 Classify and complete `k-150-typestate`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.14 Classify and complete `k-151-typed-transition-tables`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.15 Classify and complete `k-152-type-safe-event-emitters`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.16 Classify and complete `k-153-event-map-transformations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.17 Classify and complete `k-154-fluent-mini-dsls`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.18 Classify and complete `k-155-xor-and-exactly-one-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.19 Classify and complete `k-156-exact-object-and-at-least-one-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.20 Classify and complete `k-157-correlated-unions`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.21 Classify and complete `k-158-higher-kinded-type-emulation`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 10.22 Classify and complete `k-159-extensible-registry-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 
 ## 11. Phase 10 - TypeScript 5.x Features
 
