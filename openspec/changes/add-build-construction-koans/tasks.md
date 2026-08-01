@@ -216,12 +216,12 @@
 - [x] 11.23 Classify and complete `k-182-boolean-comparison-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.24 Classify and complete `k-183-symbol-hasinstance-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.25 Classify and complete `k-184-object-and-map-groupby`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.26 Classify and complete `k-185-preserved-closure-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.27 Classify and complete `k-186-noinfer-release-lab`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.28 Classify and complete `k-187-inferred-predicate-release-lab`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.29 Classify and complete `k-188-constant-indexed-control-flow-analysis`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.30 Classify and complete `k-189-isolated-declarations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.31 Classify and complete `k-190-configdir`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.26 Classify and complete `k-185-preserved-closure-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.27 Classify and complete `k-186-noinfer-release-lab`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.28 Classify and complete `k-187-inferred-predicate-release-lab`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.29 Classify and complete `k-188-constant-indexed-control-flow-analysis`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.30 Classify and complete `k-189-isolated-declarations`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.31 Classify and complete `k-190-configdir`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.32 Classify and complete `k-191-regexp-syntax-checking`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.33 Classify and complete `k-192-jsdoc-import`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.34 Classify and complete `k-193-iterator-helpers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
