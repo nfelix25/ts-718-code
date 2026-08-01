@@ -191,11 +191,11 @@
 
 ## 11. Phase 10 - TypeScript 5.x Features
 
-- [ ] 11.1 Classify and complete `k-160-decorator-mental-model`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.2 Classify and complete `k-161-class-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.3 Classify and complete `k-162-method-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.4 Classify and complete `k-163-field-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.5 Classify and complete `k-164-accessor-and-auto-accessor-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.1 Classify and complete `k-160-decorator-mental-model`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.2 Classify and complete `k-161-class-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.3 Classify and complete `k-162-method-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.4 Classify and complete `k-163-field-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.5 Classify and complete `k-164-accessor-and-auto-accessor-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.6 Classify and complete `k-165-decorator-factories-and-composition`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.7 Classify and complete `k-166-well-typed-generic-decorators`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.8 Classify and complete `k-167-decorator-initializers`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
