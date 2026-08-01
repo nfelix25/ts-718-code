@@ -211,11 +211,11 @@
 - [x] 11.18 Classify and complete `k-177-copying-array-methods`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.19 Classify and complete `k-178-symbols-as-weak-collection-keys`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.20 Classify and complete `k-179-import-attributes`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.21 Classify and complete `k-180-resolution-mode`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.22 Classify and complete `k-181-switch-true-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.23 Classify and complete `k-182-boolean-comparison-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.24 Classify and complete `k-183-symbol-hasinstance-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.25 Classify and complete `k-184-object-and-map-groupby`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.21 Classify and complete `k-180-resolution-mode`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.22 Classify and complete `k-181-switch-true-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.23 Classify and complete `k-182-boolean-comparison-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.24 Classify and complete `k-183-symbol-hasinstance-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.25 Classify and complete `k-184-object-and-map-groupby`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.26 Classify and complete `k-185-preserved-closure-narrowing`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.27 Classify and complete `k-186-noinfer-release-lab`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 11.28 Classify and complete `k-187-inferred-predicate-release-lab`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
