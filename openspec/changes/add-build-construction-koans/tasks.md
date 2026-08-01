@@ -264,13 +264,62 @@
 - [x] 13.4 Classify and complete `k-224-native-watch-mode`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 13.5 Classify and complete `k-225-lsp-and-editor-architecture`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 13.6 Classify and complete `k-226-compiler-api-and-side-by-side-use`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 13.7 Classify and complete `k-227-configuration-hard-removals`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 13.8 Classify and complete `k-228-diagnostic-js-jsdoc-emit-differences`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 13.9 Classify and complete `k-229-native-parity-and-performance-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 13.7 Classify and complete `k-227-configuration-hard-removals`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 13.8 Classify and complete `k-228-diagnostic-js-jsdoc-emit-differences`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 13.9 Classify and complete `k-229-native-parity-and-performance-capstone`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 
 ## 14. Final Review
 
-- [ ] 14.1 Confirm every curriculum packet has either an audited `.builds.ts` supplement or a recorded material-based skip rationale
-- [ ] 14.2 Audit supplements for the required import, header, numbering, construction-local assertion grouping from `k-010` onward (with `k-001` through `k-009` grandfathered), complete assertion batteries, and absence of `@koan-error` markers
-- [ ] 14.3 Confirm the four existing files for every packet, shared assertion utilities, scripts, documentation, templates, syllabus, and quality-gate records remain unchanged
-- [ ] 14.4 Summarize total supplements, total skipped packets, total constructions, and any minimal compatibility changes that proved necessary
+- [x] 14.1 Confirm every curriculum packet has either an audited `.builds.ts` supplement or a recorded material-based skip rationale
+- [x] 14.2 Audit supplements for the required import, header, numbering, construction-local assertion grouping from `k-010` onward (with `k-001` through `k-009` grandfathered), complete assertion batteries, and absence of `@koan-error` markers
+- [x] 14.3 Confirm the four existing files for every packet, shared assertion utilities, scripts, documentation, templates, syllabus, and quality-gate records remain unchanged
+- [x] 14.4 Summarize total supplements, total skipped packets, total constructions, and any minimal compatibility changes that proved necessary
+
+### Final review results
+
+**Coverage (14.1).** 229 packets, 229 supplements, 0 skips. Every packet named in
+the syllabus has a `<packet>.builds.ts` beside its four existing files.
+
+| Phase | Files | Constructions | Assertions |
+| --- | ---: | ---: | ---: |
+| 01 type relations and generics | 22 | 510 | 1931 |
+| 02 narrowing and control flow | 17 | 398 | 1727 |
+| 03 mapped types | 15 | 319 | 1334 |
+| 04 conditional types | 19 | 376 | 1733 |
+| 05 template literal types | 15 | 272 | 1359 |
+| 06 variadic tuples | 15 | 280 | 1400 |
+| 07 recursive types | 14 | 263 | 1315 |
+| 08 type-level programming | 20 | 315 | 1575 |
+| 09 advanced API patterns | 22 | 393 | 1794 |
+| 10 TypeScript 5.x features | 49 | 882 | 3818 |
+| 11 TypeScript 6 transition | 12 | 216 | 914 |
+| 12 TypeScript 7 native | 9 | 162 | 690 |
+| **Total** | **229** | **4386** | **19579** |
+
+**Structure (14.2).** A structural pass over all 229 files confirms: the shared
+type-only import on line 1, a header block, numbered constructions running 1..n
+in order, every construction a bare `TODO` hole carrying the `// TODO(koan)`
+marker, assertions named `_NN<letter>` grouped immediately under the construction
+they grade, two to five assertions per construction, no duplicate aliases, no
+`@koan-error` markers, no leftover authoring sentinels, and no runtime imports or
+exports. `k-001` through `k-009` are grandfathered on numbering and grouping only.
+
+Every supplement was also gated at authoring time in three stages: the solved
+form typechecks with zero diagnostics; the learner form produces at least one
+`TS2344` per construction and no diagnostic outside an assertion; and no assertion
+still passes while its construction is unsolved.
+
+**Isolation (14.3).** The branch touches supplements and this ledger and nothing
+else: `git diff --name-only main...HEAD` lists only `*.builds.ts` files plus
+`openspec/changes/add-build-construction-koans/tasks.md`. No packet `.ts`,
+`.drills.ts`, `.edges.ts` or `.test.ts` file, no shared assertion utility, script,
+document, template, or syllabus entry changed. `pnpm test` (1153 tests, 230
+files), `pnpm validate:syllabus` (229/229) and `pnpm progress` are unchanged.
+
+**Compatibility changes (14.4).** Four supplements needed minimal edits during the
+final pass, all of them to satisfy rules the earlier phases predate: assertion
+batteries larger than five were merged into paired records without losing a single
+claim (`k-061` construction 17, `k-062` constructions 8, 9 and 15, `k-064`
+construction 14), and `k-138`'s `declare const brand: unique symbol` lost its
+`export` keyword so no supplement exports a value binding. No packet material and
+no shared infrastructure was modified.

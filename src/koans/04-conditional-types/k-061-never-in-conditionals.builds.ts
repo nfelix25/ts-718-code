@@ -273,12 +273,12 @@ type _17a = Expect<
   >
 >;
 type _17b = Expect<
-  Equal<keyof NeverKeyMaps<{}>[0], never>
+  Equal<
+    [emptySource: keyof NeverKeyMaps<{}>[0], unknownSource: keyof NeverKeyMaps<unknown>[0]],
+    [emptySource: never, unknownSource: never]
+  >
 >;
 type _17c = Expect<
-  Equal<keyof NeverKeyMaps<unknown>[0], never>
->;
-type _17d = Expect<
   Equal<
     [
       mappedIsAny: GivenIsAny<NeverKeyMaps<never>[0]>,
@@ -287,11 +287,11 @@ type _17d = Expect<
     [mappedIsAny: false, keys: string | number | symbol]
   >
 >;
-type _17e = Expect<
-  Equal<keyof NeverKeyMaps<{}>[1], never>
->;
-type _17f = Expect<
-  Equal<keyof NeverKeyMaps<unknown>[1], never>
+type _17d = Expect<
+  Equal<
+    [emptySource: keyof NeverKeyMaps<{}>[1], unknownSource: keyof NeverKeyMaps<unknown>[1]],
+    [emptySource: never, unknownSource: never]
+  >
 >;
 
 // ─── Exhaustiveness, nullish fallback, and special inputs ─────────────────

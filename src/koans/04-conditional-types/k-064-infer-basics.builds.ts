@@ -271,14 +271,16 @@ type _13e = Expect<
 // 14. Capture exactly one declared fulfillment layer from a promise-like.
 export type PromiseValue<Value> = TODO; // TODO(koan)
 
-type _14a = Expect<Equal<PromiseValue<Promise<string>>, string>>;
-type _14b = Expect<
-  Equal<PromiseValue<Promise<Promise<number>>>, Promise<number>>
+type _14a = Expect<
+  Equal<
+    [oneLayer: PromiseValue<Promise<string>>, twoLayers: PromiseValue<Promise<Promise<number>>>],
+    [oneLayer: string, twoLayers: Promise<number>]
+  >
 >;
-type _14c = Expect<
+type _14b = Expect<
   Equal<PromiseValue<GivenThenable<1>>, 1>
 >;
-type _14d = Expect<
+type _14c = Expect<
   Equal<
     PromiseValue<{
       then(onfulfilled: (value: 1) => unknown): unknown;
@@ -286,10 +288,10 @@ type _14d = Expect<
     never
   >
 >;
-type _14e = Expect<
+type _14d = Expect<
   Equal<PromiseValue<Promise<string> | Promise<number> | boolean>, string | number>
 >;
-type _14f = Expect<Equal<PromiseValue<Promise<never>>, never>>;
+type _14e = Expect<Equal<PromiseValue<Promise<never>>, never>>;
 
 // 15. Compare one-layer inference with recursive `Awaited` unwrapping.
 export type PromiseComparison<Value> = TODO; // TODO(koan)

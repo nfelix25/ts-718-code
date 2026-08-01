@@ -22,7 +22,7 @@ type GivenIsAny<Value> = 0 extends 1 & Value ? true : false;
 
 type GivenExtends<From, To> = [From] extends [To] ? true : false;
 
-export declare const brand: unique symbol;
+declare const brand: unique symbol;
 
 // ─── The evidence ─────────────────────────────────────────────────────
 

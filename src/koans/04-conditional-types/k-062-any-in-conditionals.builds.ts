@@ -109,37 +109,57 @@ type _07d = Expect<Equal<PreserveOrBox<never>, never>>;
 // 8. Classify poison from filters, branch-preservation, unions, and intersections.
 export type PoisonProfile<Value> = TODO; // TODO(koan)
 
-type _08a = Expect<Equal<PoisonProfile<any>[0], true>>;
-type _08b = Expect<Equal<PoisonProfile<any>[1], true>>;
-type _08c = Expect<Equal<PoisonProfile<any>[2], true>>;
-type _08d = Expect<Equal<PoisonProfile<any>[3], true>>;
-type _08e = Expect<Equal<PoisonProfile<any>[4], false>>;
-type _08f = Expect<
-  Equal<PoisonProfile<unknown>, [false, false, false, false, false]>
+type _08a = Expect<Equal<PoisonProfile<any>, [true, true, true, true, false]>>;
+type _08b = Expect<
+  Equal<
+    [filters: PoisonProfile<any>[0], branches: PoisonProfile<any>[1]],
+    [filters: true, branches: true]
+  >
 >;
-type _08g = Expect<
-  Equal<PoisonProfile<never>, [false, false, false, false, false]>
+type _08c = Expect<
+  Equal<
+    [unions: PoisonProfile<any>[2], intersections: PoisonProfile<any>[3], safe: PoisonProfile<any>[4]],
+    [unions: true, intersections: true, safe: false]
+  >
 >;
-type _08h = Expect<
+type _08d = Expect<
+  Equal<
+    [top: PoisonProfile<unknown>, bottom: PoisonProfile<never>],
+    [top: [false, false, false, false, false], bottom: [false, false, false, false, false]]
+  >
+>;
+type _08e = Expect<
   Equal<PoisonProfile<number>, [false, false, false, false, false]>
 >;
 
 // 9. Classify any after union and intersection normalization.
 export type AnyAlgebraProfile<Value> = TODO; // TODO(koan)
 
-type _09a = Expect<Equal<AnyAlgebraProfile<any>[0], true>>;
-type _09b = Expect<Equal<AnyAlgebraProfile<any>[1], true>>;
-type _09c = Expect<Equal<AnyAlgebraProfile<any>[2], false>>;
-type _09d = Expect<Equal<AnyAlgebraProfile<any>[3], true>>;
-type _09e = Expect<Equal<AnyAlgebraProfile<any>[4], false>>;
-type _09f = Expect<Equal<AnyAlgebraProfile<any>[5], true>>;
-type _09g = Expect<
-  Equal<AnyAlgebraProfile<unknown>, [false, false, false, false, false, false]>
+type _09a = Expect<
+  Equal<AnyAlgebraProfile<any>, [true, true, false, true, false, true]>
 >;
-type _09h = Expect<
-  Equal<AnyAlgebraProfile<string>, [false, false, false, false, false, false]>
+type _09b = Expect<
+  Equal<
+    [union: AnyAlgebraProfile<any>[0], intersection: AnyAlgebraProfile<any>[1], neither: AnyAlgebraProfile<any>[2]],
+    [union: true, intersection: true, neither: false]
+  >
 >;
-type _09i = Expect<
+type _09c = Expect<
+  Equal<
+    [nested: AnyAlgebraProfile<any>[3], safe: AnyAlgebraProfile<any>[4], normalized: AnyAlgebraProfile<any>[5]],
+    [nested: true, safe: false, normalized: true]
+  >
+>;
+type _09d = Expect<
+  Equal<
+    [top: AnyAlgebraProfile<unknown>, ordinary: AnyAlgebraProfile<string>],
+    [
+      top: [false, false, false, false, false, false],
+      ordinary: [false, false, false, false, false, false],
+    ]
+  >
+>;
+type _09e = Expect<
   Equal<AnyAlgebraProfile<never>, [false, false, false, false, false, false]>
 >;
 
@@ -223,22 +243,26 @@ type _14d = Expect<Equal<InferArguments<unknown>, never>>;
 // 15. Observe callable utility poison without directly expecting any.
 export type CallableAnyProfile<Value> = TODO; // TODO(koan)
 
-type _15a = Expect<Equal<CallableAnyProfile<any>[0], false>>;
-type _15b = Expect<Equal<CallableAnyProfile<any>[1], boolean>>;
-type _15c = Expect<Equal<CallableAnyProfile<any>[2], unknown[]>>;
-type _15d = Expect<
+type _15a = Expect<
+  Equal<
+    [callable: CallableAnyProfile<any>[0], returned: CallableAnyProfile<any>[1]],
+    [callable: false, returned: boolean]
+  >
+>;
+type _15b = Expect<Equal<CallableAnyProfile<any>[2], unknown[]>>;
+type _15c = Expect<
   Equal<
     CallableAnyProfile<() => string>,
     [false, false, []]
   >
 >;
-type _15e = Expect<
+type _15d = Expect<
   Equal<
     CallableAnyProfile<(value: any) => unknown>,
     [false, false, [value: any]]
   >
 >;
-type _15f = Expect<
+type _15e = Expect<
   Equal<CallableAnyProfile<unknown>, [false, false, never]>
 >;
 
