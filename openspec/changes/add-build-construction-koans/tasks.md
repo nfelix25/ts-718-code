@@ -246,9 +246,9 @@
 - [x] 12.1 Classify and complete `k-209-strict-family-unpacked`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 12.2 Classify and complete `k-210-strict-adjacent-hardening-flags`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 12.3 Classify and complete `k-211-modern-compiler-defaults`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.4 Classify and complete `k-212-thisless-function-context-sensitivity`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.5 Classify and complete `k-213-stable-type-ordering`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 12.6 Classify and complete `k-214-es2025-lib-and-regexp-escape`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.4 Classify and complete `k-212-thisless-function-context-sensitivity`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.5 Classify and complete `k-213-stable-type-ordering`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 12.6 Classify and complete `k-214-es2025-lib-and-regexp-escape`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 12.7 Classify and complete `k-215-temporal-api-types`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 12.8 Classify and complete `k-216-map-upsert-methods`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [ ] 12.9 Classify and complete `k-217-set-iterator-promise-es2025-apis`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
