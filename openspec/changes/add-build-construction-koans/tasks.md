@@ -235,11 +235,11 @@
 - [x] 11.42 Classify and complete `k-201-generic-typed-arrays`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.43 Classify and complete `k-202-nodenext-json-imports`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 - [x] 11.44 Classify and complete `k-203-granular-return-expression-checks`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.45 Classify and complete `k-204-require-esm-from-commonjs`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.46 Classify and complete `k-205-erasable-syntax-only`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.47 Classify and complete `k-206-lib-replacement`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.48 Classify and complete `k-207-import-defer`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
-- [ ] 11.49 Classify and complete `k-208-node20-and-modern-module-config`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.45 Classify and complete `k-204-require-esm-from-commonjs`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.46 Classify and complete `k-205-erasable-syntax-only`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.47 Classify and complete `k-206-lib-replacement`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.48 Classify and complete `k-207-import-defer`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
+- [x] 11.49 Classify and complete `k-208-node20-and-modern-module-config`: add an audited learner `.builds.ts` with count and coverage report, or record its skip rationale
 
 ## 12. Phase 11 - TypeScript 6 Transition
 
